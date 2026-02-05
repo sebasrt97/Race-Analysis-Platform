@@ -27,7 +27,7 @@ class RaceSpider(scrapy.Spider):
         for edicion in self.EDICIONES:
             yield scrapy.Request(
                 url=edicion["url"],
-                callback=self.parse_participantes,
+                callback=self.parse,
                 meta={'anio': edicion["anio"]} # Pasamos el año para etiquetar los datos
             )
 
@@ -56,7 +56,7 @@ class RaceSpider(scrapy.Spider):
                 'race_distance': '7.5',
                 'location': 'A Coruña'
             }
-            
+
         next_page = response.xpath('//a[contains(text(), "Siguiente") or contains(text(), ">")]/@href').get()
         
         if next_page:

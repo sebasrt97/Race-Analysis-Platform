@@ -1,3 +1,6131 @@
 [
-
-]
+{
+  "edicion": 2010,
+  "runner_name": "JOSE MANUEL VIEITO VILACOBA",
+  "finish_time": "00:23:50",
+  "age_group": "1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JUAN LUIS TRILLO CAAMAÑO",
+  "finish_time": "00:24:21",
+  "age_group": "1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "MANUEL OLIVER PEREZ LOPEZ",
+  "finish_time": "00:24:49",
+  "age_group": "2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JAVIER TOURÍS FORNOS",
+  "finish_time": "00:25:40",
+  "age_group": "3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "ANGEL MACEIRAS LAGO",
+  "finish_time": "00:25:55",
+  "age_group": "4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "LINO SEOANE NARANJO",
+  "finish_time": "00:26:00",
+  "age_group": "5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JUAN CARLOS BARRO ROCHELA",
+  "finish_time": "00:26:13",
+  "age_group": "1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "NICOLAS DOMINGUEZ GARCIA",
+  "finish_time": "00:26:17",
+  "age_group": "2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JESUS FRAGA LOPEZ",
+  "finish_time": "00:26:21",
+  "age_group": "2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JOSE MANUEL PRIETO SOUTO",
+  "finish_time": "00:26:22",
+  "age_group": "6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JESUS Mª ALVAREZ RODRIGUEZ",
+  "finish_time": "00:26:32",
+  "age_group": "7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "EMILIO MARTINEZ ANTA",
+  "finish_time": "00:26:54",
+  "age_group": "3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "RICARDO GARCIA GESTAL",
+  "finish_time": "00:27:14",
+  "age_group": "8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "AZIZ ZIRANI",
+  "finish_time": "00:27:15",
+  "age_group": "4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JULIO GARCIA FACHAL",
+  "finish_time": "00:27:16",
+  "age_group": "9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "MARIA YOLANDA GUTIÉRREZ ROBLES",
+  "finish_time": "00:27:22",
+  "age_group": "1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "FERNANDO CANCELO BARBEITO",
+  "finish_time": "00:27:36",
+  "age_group": "11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JOSE DEBEN GOMEZ",
+  "finish_time": "00:27:39",
+  "age_group": "5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "ANTONIO NAVARRO CORTIZO",
+  "finish_time": "00:27:51",
+  "age_group": "12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JESUS VEIGUELA NUÑEZ",
+  "finish_time": "00:27:57",
+  "age_group": "13",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "PABLO BARRIO VILAR",
+  "finish_time": "00:28:04",
+  "age_group": "14",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "FERNANDO MUIÑA FUENTES",
+  "finish_time": "00:28:08",
+  "age_group": "15",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JOSÉ ANTONIO MARTÍNEZ GARCÍA",
+  "finish_time": "00:28:12",
+  "age_group": "6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JOSÉ FRANCISCO BLANCO FANDIÑO",
+  "finish_time": "00:28:18",
+  "age_group": "16",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JOSE ANDRES ALDREY VARELA",
+  "finish_time": "00:28:24",
+  "age_group": "7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "MARCOS ANTONIO SEIJO BUJÍA",
+  "finish_time": "00:24:11",
+  "age_group": "1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "MANUEL OLIVER PEREZ LOPEZ",
+  "finish_time": "00:24:33",
+  "age_group": "2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "ABDELAZIZ FATIHI",
+  "finish_time": "00:24:35",
+  "age_group": "1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "JOSE MANUEL PARDO LEIS",
+  "finish_time": "00:24:57",
+  "age_group": "3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "NICOLAS DOMINGUEZ GARCIA",
+  "finish_time": "00:25:17",
+  "age_group": "2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "MIGUEL ÁNGEL ACOSTA ALCOBA",
+  "finish_time": "00:25:20",
+  "age_group": "4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "JESUS Mª ALVAREZ RODRIGUEZ",
+  "finish_time": "00:25:23",
+  "age_group": "5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "ANGEL MACEIRAS LAGO",
+  "finish_time": "00:25:56",
+  "age_group": "6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "ROBERTO CARLOS VALES LOPEZ",
+  "finish_time": "00:25:59",
+  "age_group": "7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "ADRIÁN MORENO RAMIL",
+  "finish_time": "00:26:04",
+  "age_group": "3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "JOSE MARIA AGUETE LEMA",
+  "finish_time": "00:26:40",
+  "age_group": "8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "PABLO BARRIO VILAR",
+  "finish_time": "00:26:56",
+  "age_group": "9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "IVÁN SOMOZA ARGIBAY",
+  "finish_time": "00:26:57",
+  "age_group": "10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "LINO SEOANE NARANJO",
+  "finish_time": "00:26:58",
+  "age_group": "1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "CONSTANTE LORENZO SANTOS",
+  "finish_time": "00:26:59",
+  "age_group": "11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "JOSE ANTONIO ABUIN TREUS",
+  "finish_time": "00:27:00",
+  "age_group": "12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "GERARDO CACHAFEIRO GARCÍA",
+  "finish_time": "00:27:00",
+  "age_group": "4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "ALBERTO RILO MOSTEIRO",
+  "finish_time": "00:27:01",
+  "age_group": "1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "PAULO XOÁN MUINELO PEDREIRA",
+  "finish_time": "00:27:04",
+  "age_group": "2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "ANDRE LUIZ SOUZA",
+  "finish_time": "00:27:08",
+  "age_group": "13",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "JOSÉ MANUEL PENAS VARELA",
+  "finish_time": "00:27:21",
+  "age_group": "5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "DAVID ROMERO ALBORÉS",
+  "finish_time": "00:27:22",
+  "age_group": "14",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "DANIEL APARICIO BUSTABAD",
+  "finish_time": "00:27:24",
+  "age_group": "15",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "EDUARDO SEOANE SANTISO",
+  "finish_time": "00:27:25",
+  "age_group": "16",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "DAVID EIROA DÍAZ",
+  "finish_time": "00:27:28",
+  "age_group": "2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "RAMON SERANTES GOMEZ",
+  "finish_time": "00:24:29",
+  "age_group": "1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "MANUEL OLIVER PEREZ LOPEZ",
+  "finish_time": "00:25:14",
+  "age_group": "2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "JAVIER TOURÍS FORNOS",
+  "finish_time": "00:25:38",
+  "age_group": "1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "MIGUEL ÁNGEL ACOSTA ALCOBA",
+  "finish_time": "00:25:44",
+  "age_group": "2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "IVÁN SOMOZA ARGIBAY",
+  "finish_time": "00:26:03",
+  "age_group": "3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "JOSE MANUEL PARDO LEIS",
+  "finish_time": "00:26:12",
+  "age_group": "4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "JOSÉ MANUEL PENAS VARELA",
+  "finish_time": "00:26:24",
+  "age_group": "1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "JESUS Mª ALVAREZ RODRIGUEZ",
+  "finish_time": "00:26:25",
+  "age_group": "5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "JAVIER SEOANE PUGA",
+  "finish_time": "00:26:27",
+  "age_group": "7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "ROBERTO CARLOS VALES LOPEZ",
+  "finish_time": "00:26:27",
+  "age_group": "6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "OSCAR PAZOS BARBEITO",
+  "finish_time": "00:26:35",
+  "age_group": "8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "NICOLAS FERNANDEZ MAURIZ",
+  "finish_time": "00:26:45",
+  "age_group": "9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "ALBERTO RILO MOSTEIRO",
+  "finish_time": "00:26:47",
+  "age_group": "2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "DAVID DOMINGUEZ SALAS",
+  "finish_time": "00:26:47",
+  "age_group": "10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "JAVIER SISO GARCIA",
+  "finish_time": "00:26:48",
+  "age_group": "11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "LINO SEOANE NARANJO",
+  "finish_time": "00:26:49",
+  "age_group": "3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "ANGEL MACEIRAS LAGO",
+  "finish_time": "00:26:51",
+  "age_group": "12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "JOSE MARIA AGUETE LEMA",
+  "finish_time": "00:26:52",
+  "age_group": "13",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "MARIO FRANCISCO FERNANDEZ",
+  "finish_time": "00:26:57",
+  "age_group": "4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "JOSE ANTONIO RECOUSO CAAMAÑO",
+  "finish_time": "00:27:00",
+  "age_group": "14",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "JOSE FRANCISCO VAZQUEZ BRAÑAS",
+  "finish_time": "00:27:00",
+  "age_group": "5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "ANDRE LUIZ SOUZA",
+  "finish_time": "00:27:07",
+  "age_group": "15",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "EMILIO MARTINEZ ANTA",
+  "finish_time": "00:27:12",
+  "age_group": "6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "JOSE ANTONIO ABUIN TREUS",
+  "finish_time": "00:27:23",
+  "age_group": "16",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "FERNANDO MANUEL LÓPEZ DE LAS HERAS",
+  "finish_time": "00:27:32",
+  "age_group": "17",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "ABDELKADER BOUGUERROUJ",
+  "finish_time": "00:20:55",
+  "age_group": "VETERANOS A MASC-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "RAMON SERANTES GOMEZ",
+  "finish_time": "00:20:55",
+  "age_group": "VETERANOS B MASC-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "BORJA COBELO GARCIA",
+  "finish_time": "00:21:29",
+  "age_group": "SENIOR MASCULINO-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "NICOLAS DOMINGUEZ GARCIA",
+  "finish_time": "00:21:29",
+  "age_group": "VETERANOS A MASC-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "MANUEL OLIVER PÉREZ LÓPEZ",
+  "finish_time": "00:21:38",
+  "age_group": "VETERANOS B MASC-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "JAVIER TOURÍS FORNOS",
+  "finish_time": "00:21:47",
+  "age_group": "VETERANOS A MASC-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "ANGEL MACEIRAS LAGO",
+  "finish_time": "00:22:00",
+  "age_group": "VETERANOS B MASC-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "JAVIER SEOANE PUGA",
+  "finish_time": "00:22:08",
+  "age_group": "VETERANOS B MASC-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "LUIS PÉREZ VARELA",
+  "finish_time": "00:22:27",
+  "age_group": "SENIOR MASCULINO-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "JOSE ANTONIO RECOUSO CAAMAÑO",
+  "finish_time": "00:22:31",
+  "age_group": "VETERANOS A MASC-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "JUAN LUIS TRILLO CAAMAÑO",
+  "finish_time": "00:22:33",
+  "age_group": "VETERANOS A MASC-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "JESUS Mª ALVAREZ RODRIGUEZ",
+  "finish_time": "00:22:38",
+  "age_group": "VETERANOS B MASC-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "DIEGO PÉREZ VIEITES",
+  "finish_time": "00:22:50",
+  "age_group": "SENIOR MASCULINO-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "IVÁN SOMOZA ARGIBAY",
+  "finish_time": "00:22:54",
+  "age_group": "VETERANOS A MASC-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "MANUEL MEDIERO VEIRA",
+  "finish_time": "00:22:55",
+  "age_group": "SENIOR MASCULINO-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "VICTOR COUSILLAS DIEGUEZ",
+  "finish_time": "00:23:08",
+  "age_group": "VETERANOS A MASC-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "ROI BARROS CORRAL",
+  "finish_time": "00:23:12",
+  "age_group": "SENIOR MASCULINO-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "FERNANDO MANUEL LÓPEZ DE LAS HERAS",
+  "finish_time": "00:23:12",
+  "age_group": "VETERANOS A MASC-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "IVAN SEGADE CAROU",
+  "finish_time": "00:23:18",
+  "age_group": "VETERANOS A MASC-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "FERNANDO PEREZ HERNANDEZ",
+  "finish_time": "00:23:24",
+  "age_group": "VETERANOS B MASC-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "JESUS MANUEL PUGA MARTINEZ",
+  "finish_time": "00:23:26",
+  "age_group": "VETERANOS B MASC-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "JOSE MARIA AGUETE LEMA",
+  "finish_time": "00:23:30",
+  "age_group": "VETERANOS A MASC-10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "HIGINIO RODRÍGUEZ SOUTO",
+  "finish_time": "00:23:32",
+  "age_group": "VETERANOS C MASC-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "JESUS ALVAREZ CHINCHILLA",
+  "finish_time": "00:23:34",
+  "age_group": "VETERANOS B MASC-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "ANTON GOMEZ GONZALEZ",
+  "finish_time": "00:23:37",
+  "age_group": "SENIOR MASCULINO-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "ABDELAZIZ FATIHI CHHIMA",
+  "finish_time": "00:24:19",
+  "age_group": "SNM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "DIEGO CRESPO NAYA",
+  "finish_time": "00:24:36",
+  "age_group": "VTAM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "ALBERTO CASTIÑEIRA FIGUEROA",
+  "finish_time": "00:24:45",
+  "age_group": "JVM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "JAVIER TOURÍS FORNOS",
+  "finish_time": "00:24:51",
+  "age_group": "VTAM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "PABLO BOCELO BELLAS",
+  "finish_time": "00:24:57",
+  "age_group": "SNM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "JAVIER SEOANE PUGA",
+  "finish_time": "00:24:58",
+  "age_group": "VTBM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "FERNANDO DÍEZ GOMEZ",
+  "finish_time": "00:25:00",
+  "age_group": "VTAM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "RAFAEL OLIVEIRA",
+  "finish_time": "00:25:03",
+  "age_group": "VTAM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "NICOLAS DOMINGUEZ GARCIA",
+  "finish_time": "00:25:07",
+  "age_group": "VTAM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "MANUEL OLIVER PÉREZ LÓPEZ",
+  "finish_time": "00:25:57",
+  "age_group": "VTBM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "BORJA SÁNCHEZ CAMPOS",
+  "finish_time": "00:25:58",
+  "age_group": "SNM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "JOSE MANUEL PARDO LEIS",
+  "finish_time": "00:25:59",
+  "age_group": "VTAM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "DIEGO PÉREZ VIEITES",
+  "finish_time": "00:26:01",
+  "age_group": "VTAM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "LUIS PINEDO ARMESTO",
+  "finish_time": "00:26:13",
+  "age_group": "VTAM-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "MARIO FRANCISCO FERNANDEZ",
+  "finish_time": "00:26:18",
+  "age_group": "VTBM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "JOSE ANTONIO RECOUSO CAAMAÑO",
+  "finish_time": "00:26:21",
+  "age_group": "VTAM-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "ANGEL MACEIRAS LAGO",
+  "finish_time": "00:26:23",
+  "age_group": "VTBM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "EMILIO MARTINEZ ANTA",
+  "finish_time": "00:26:26",
+  "age_group": "VTCM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "OSCAR MARTINEZ MALLO",
+  "finish_time": "00:26:28",
+  "age_group": "VTAM-10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "ALBERTO SAN EMETERIO FERNÁNDEZ",
+  "finish_time": "00:26:33",
+  "age_group": "VTAM-11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "MANUEL FERNÁNDEZ SÁNCHEZ",
+  "finish_time": "00:26:39",
+  "age_group": "SNM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "JOSE MANUEL RODRIGUEZ MOURE",
+  "finish_time": "00:26:47",
+  "age_group": "VTBM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "FRANCISCO JAVIER VILA LOPEZ",
+  "finish_time": "00:26:53",
+  "age_group": "VTAM-12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "CARLOS VALIÑA LISTA",
+  "finish_time": "00:26:57",
+  "age_group": "JVM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "MIGUEL REGUEIRA VEIGA",
+  "finish_time": "00:26:58",
+  "age_group": "VTAM-13",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "MANUEL ANGEL PENAS BLANCO",
+  "finish_time": "00:18:03",
+  "age_group": "VTAM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "ALBERTO CASTIÑEIRA FIGUEROA",
+  "finish_time": "00:19:38",
+  "age_group": "SNM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "DIEGO CRESPO NAYA",
+  "finish_time": "00:19:40",
+  "age_group": "VTAM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "DIEGO RUIZ BREIJO",
+  "finish_time": "00:19:40",
+  "age_group": "VTAM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "JAVIER TOURÍS FORNOS",
+  "finish_time": "00:19:46",
+  "age_group": "VTBM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "NICOLÁS DOMINGUEZ GARCÍA",
+  "finish_time": "00:19:51",
+  "age_group": "VTAM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "LUIS PÉREZ VARELA",
+  "finish_time": "00:19:56",
+  "age_group": "SNM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "MANUEL OLIVER PÉREZ LÓPEZ",
+  "finish_time": "00:20:02",
+  "age_group": "VTBM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "PEDRO ÁLVAREZ",
+  "finish_time": "00:20:15",
+  "age_group": "JVM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "JORGE SIEIRA HERMIDA",
+  "finish_time": "00:20:36",
+  "age_group": "JVM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "MARIO FRANCISCO FERNANDEZ",
+  "finish_time": "00:20:37",
+  "age_group": "VTBM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "JUAN CARLOS GOMEZ EDREIRA",
+  "finish_time": "00:20:38",
+  "age_group": "VTAM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "ALVARO PRESEDO FRAGUÍO",
+  "finish_time": "00:20:39",
+  "age_group": "VTAM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "ALEJANDRO BALSA CASTRO",
+  "finish_time": "00:20:40",
+  "age_group": "VTAM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "LUIS PINEDO ARMESTO",
+  "finish_time": "00:20:42",
+  "age_group": "VTAM-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "FERNANDO MANUEL LÓPEZ DE LAS HERAS",
+  "finish_time": "00:20:47",
+  "age_group": "VTBM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "ANGEL MACEIRAS LAGO",
+  "finish_time": "00:20:55",
+  "age_group": "VTBM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "MANUEL FERNÁNDEZ SÁNCHEZ",
+  "finish_time": "00:20:56",
+  "age_group": "SNM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "ROI BARROS CORRAL",
+  "finish_time": "00:20:57",
+  "age_group": "SNM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "RUBEN LIÑARES ARAN",
+  "finish_time": "00:21:00",
+  "age_group": "VTAM-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "DIEGO MARTÍNEZ RIVAS",
+  "finish_time": "00:21:03",
+  "age_group": "JVM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "CARLOS IGLESIAS AREA",
+  "finish_time": "00:21:05",
+  "age_group": "VTAM-10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "DAMIAN ARAUJO PEREZ",
+  "finish_time": "00:21:06",
+  "age_group": "VTAM-11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "FERNANDO PEREZ HERNANDEZ",
+  "finish_time": "00:21:09",
+  "age_group": "VTBM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "HIGINIO RODRÍGUEZ SOUTO",
+  "finish_time": "00:21:10",
+  "age_group": "VTCM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "ALBERTO CASTIÑEIRA FIGUEROA",
+  "finish_time": "00:21:02",
+  "age_group": "SNM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "MARCOS ANTONIO SEIJO BUJÍA",
+  "finish_time": "00:21:07",
+  "age_group": "VTBM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "IVAN RAÑA FUENTES",
+  "finish_time": "00:21:19",
+  "age_group": "VTAM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "LUIS PÉREZ VARELA",
+  "finish_time": "00:21:51",
+  "age_group": "VTAM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "FERNANDO DÍEZ GOMEZ",
+  "finish_time": "00:22:06",
+  "age_group": "VTAM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "MIKEL OCERIN VÁZQUEZ",
+  "finish_time": "00:22:20",
+  "age_group": "SNM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "RAMON SERANTES GÓMEZ",
+  "finish_time": "00:22:24",
+  "age_group": "VTBM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "NICOLAS GENS LÓPEZ",
+  "finish_time": "00:22:26",
+  "age_group": "JV2M-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "JORGE SIEIRA HERMIDA",
+  "finish_time": "00:22:31",
+  "age_group": "JV2M-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "MANUEL OLIVER PÉREZ LÓPEZ",
+  "finish_time": "00:22:32",
+  "age_group": "VTBM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "CARLOS IGLESIAS AREA",
+  "finish_time": "00:22:32",
+  "age_group": "VTAM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "DAVID LANDEIRA CASTRO",
+  "finish_time": "00:22:34",
+  "age_group": "VTAM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "LUIS PINEDO ARMESTO",
+  "finish_time": "00:22:43",
+  "age_group": "VTAM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "ALBERTO MORIS VIEITES",
+  "finish_time": "00:22:50",
+  "age_group": "VTAM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "MARIO FRANCISCO FERNANDEZ",
+  "finish_time": "00:22:58",
+  "age_group": "VTBM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "JAVIER OUBIÑA ABUIN",
+  "finish_time": "00:23:06",
+  "age_group": "VTAM-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "ERMIAS FERNANDEZ CASABELLA",
+  "finish_time": "00:23:13",
+  "age_group": "JV2M-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "JUAN CARLOS GOMEZ EDREIRA",
+  "finish_time": "00:23:28",
+  "age_group": "VTAM-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "MIGUEL BENAVENT DE LA FUENTE",
+  "finish_time": "00:23:35",
+  "age_group": "JV2M-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "DIEGO MARTÍNEZ RIVAS",
+  "finish_time": "00:23:37",
+  "age_group": "JV2M-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "FERNANDO PEREZ HERNANDEZ",
+  "finish_time": "00:23:38",
+  "age_group": "VTBM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "DAVID FERNÁNDEZ ARGUL",
+  "finish_time": "00:23:44",
+  "age_group": "JV2M-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "NICOLAS FERNANDO BAS ROTH",
+  "finish_time": "00:23:47",
+  "age_group": "VTAM-10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "FERNANDO MANUEL LÓPEZ DE LAS HERAS",
+  "finish_time": "00:23:47",
+  "age_group": "VTBM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "HIGINIO RODRÍGUEZ SOUTO",
+  "finish_time": "00:23:49",
+  "age_group": "VTCM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "ABDELAZIZ FATIHI CHHIMA",
+  "finish_time": "00:20:54",
+  "age_group": "SNM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "PABLO BOCELO BELLAS",
+  "finish_time": "00:21:05",
+  "age_group": "SNM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "FERNANDO DÍEZ GOMEZ",
+  "finish_time": "00:21:25",
+  "age_group": "VTAM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "LUIS PÉREZ VARELA",
+  "finish_time": "00:21:32",
+  "age_group": "VTAM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "ALBERTO MORIS VIEITES",
+  "finish_time": "00:21:38",
+  "age_group": "VTAM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "NICOLÁS PABLO GENS LÓPEZ",
+  "finish_time": "00:21:44",
+  "age_group": "JV2M-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "DIEGO RUIZ BREIJO",
+  "finish_time": "00:21:49",
+  "age_group": "VTAM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "NICOLAS DOMINGUEZ GARCIA",
+  "finish_time": "00:22:07",
+  "age_group": "VTAM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "JAVIER SEOANE PUGA",
+  "finish_time": "00:22:17",
+  "age_group": "VTBM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "ANGEL MACEIRAS LAGO",
+  "finish_time": "00:22:21",
+  "age_group": "VTBM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "ANDRES PRIETO VILLAR",
+  "finish_time": "00:22:22",
+  "age_group": "JV1M-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "ALVARO PRESEDO FRAGUÍO",
+  "finish_time": "00:22:25",
+  "age_group": "VTAM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "MANUEL OLIVER PÉREZ LÓPEZ",
+  "finish_time": "00:22:27",
+  "age_group": "VTBM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "JORGE SIEIRA HERMIDA",
+  "finish_time": "00:22:32",
+  "age_group": "JV2M-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "DAVID FERNÁNDEZ ARGUL",
+  "finish_time": "00:22:34",
+  "age_group": "JV2M-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "JOSE LUIS SEOANE UZAL",
+  "finish_time": "00:22:40",
+  "age_group": "VTBM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "MIGUEL REGUEIRA VEIGA",
+  "finish_time": "00:22:48",
+  "age_group": "VTAM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "JAVIER OUBIÑA ABUIN",
+  "finish_time": "00:22:53",
+  "age_group": "VTBM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "ROBERTO MARTINEZ CASTRO",
+  "finish_time": "00:23:03",
+  "age_group": "VTAM-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "DIEGO CRESPO NAYA",
+  "finish_time": "00:23:05",
+  "age_group": "VTBM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "SERGIO RODRIGUEZ QUINTANA",
+  "finish_time": "00:23:09",
+  "age_group": "SNM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "JOSE ANTONIO ABUIN TREUS",
+  "finish_time": "00:23:13",
+  "age_group": "VTBM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "ROI BARROS CORRAL",
+  "finish_time": "00:23:16",
+  "age_group": "VTAM-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "PABLO LEMA PEREZ",
+  "finish_time": "00:23:20",
+  "age_group": "VTCM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "FERNANDO LOPEZ MARTINEZ",
+  "finish_time": "00:23:25",
+  "age_group": "VTAM-10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "PABLO BOCELO BELLAS",
+  "finish_time": "00:21:51",
+  "age_group": "SNM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "ABDELAZIZ FATIHI CHHIMA",
+  "finish_time": "00:21:58",
+  "age_group": "SNM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "VICTOR PUYUELO PARDO",
+  "finish_time": "00:22:13",
+  "age_group": "SNM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "FERNANDO DÍEZ GOMEZ",
+  "finish_time": "00:22:17",
+  "age_group": "VTAM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "ANDRES PRIETO VILLAR",
+  "finish_time": "00:22:37",
+  "age_group": "JV2M-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "LUIS PÉREZ VARELA",
+  "finish_time": "00:22:42",
+  "age_group": "VTAM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "DIEGO RUIZ BREIJO",
+  "finish_time": "00:22:50",
+  "age_group": "VTAM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "MANUEL OLIVER PÉREZ LÓPEZ",
+  "finish_time": "00:22:54",
+  "age_group": "VTBM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "DAVID MENDEZ ARIAS",
+  "finish_time": "00:23:04",
+  "age_group": "VTAM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "CARLOS VALIÑA LISTA",
+  "finish_time": "00:23:14",
+  "age_group": "JV2M-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "JOSE MARIA SANCHEZ SAN LUIS",
+  "finish_time": "00:23:19",
+  "age_group": "VTAM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "LUIS PINEDO ARMESTO",
+  "finish_time": "00:23:31",
+  "age_group": "VTAM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "DAVID PEREZ",
+  "finish_time": "00:23:38",
+  "age_group": "JV2M-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "SERGIO RODRÍGUEZ QUINTANA",
+  "finish_time": "00:23:46",
+  "age_group": "SNM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "DAVID FERNÁNDEZ ARGUL",
+  "finish_time": "00:23:48",
+  "age_group": "JV2M-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "ANGEL MACEIRAS LAGO",
+  "finish_time": "00:23:55",
+  "age_group": "VTBM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "DAVID SANCHO FERNANDEZ",
+  "finish_time": "00:23:57",
+  "age_group": "JV2M-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "BRUNO GARCIA CERDEIRAS",
+  "finish_time": "00:24:07",
+  "age_group": "VTBM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "MARIO FRANCISCO FERNANDEZ",
+  "finish_time": "00:24:13",
+  "age_group": "VTBM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "SERGIO MOSTEIRO",
+  "finish_time": "00:24:16",
+  "age_group": "SNM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "DANIEL FUENTES BARDANCA",
+  "finish_time": "00:24:19",
+  "age_group": "VTAM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "JOSE LUIS PRADO MONTERO",
+  "finish_time": "00:24:29",
+  "age_group": "VTCM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "FERNANDO LOPEZ DE LAS HERAS",
+  "finish_time": "00:24:38",
+  "age_group": "VTBM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "MATEO TORRES NEIRA",
+  "finish_time": "00:24:41",
+  "age_group": "VTBM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "CESAR MONTES SANCHEZ",
+  "finish_time": "00:24:42",
+  "age_group": "VTBM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "NASR BOUCHAIB",
+  "finish_time": "00:21:42",
+  "age_group": "SNM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "ALBERTO CASTIÑEIRA FIGUEROA",
+  "finish_time": "00:21:42",
+  "age_group": "SNM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "ANDRES PRIETO VILLAR",
+  "finish_time": "00:22:31",
+  "age_group": "JV2M-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "ABDELAZIZ FATIHI",
+  "finish_time": "00:23:05",
+  "age_group": "SNM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "MIKEL OCERIN VAZQUEZ",
+  "finish_time": "00:23:36",
+  "age_group": "SNM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "PEDRO LOPEZ OTEROI",
+  "finish_time": "00:23:58",
+  "age_group": "JV2M-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "SERGIO MOSTEIRO",
+  "finish_time": "00:24:14",
+  "age_group": "SNM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "ANTÓN GÓMEZ LÓPEZ",
+  "finish_time": "00:24:21",
+  "age_group": "SNM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "ÁLVARO ELIZALDE ROMERO",
+  "finish_time": "00:24:23",
+  "age_group": "JV2M-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "JORGE SIEIRA HERMIDA",
+  "finish_time": "00:24:31",
+  "age_group": "SNM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "ANGEL MACEIRAS LAGO",
+  "finish_time": "00:24:36",
+  "age_group": "VTBM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "CARLOS IGLESIAS AREA",
+  "finish_time": "00:24:44",
+  "age_group": "VTBM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "EDGAR CASTELO RODRÍGUEZ",
+  "finish_time": "00:24:52",
+  "age_group": "SNM-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "MATÍAS REGUEIRO RIAL",
+  "finish_time": "00:24:53",
+  "age_group": "JV1M-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "BORJA COSTA ROJO",
+  "finish_time": "00:25:07",
+  "age_group": "VTAM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "FRANCISCO JAVIER MASEDA CARBALLO",
+  "finish_time": "00:25:08",
+  "age_group": "VTBM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "MATEO TORRES NEIRA",
+  "finish_time": "00:25:09",
+  "age_group": "VTBM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "IVÁN SOMOZA ARGIBAY",
+  "finish_time": "00:25:12",
+  "age_group": "VTBM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "MARCO CASTIÑEIRA PAIS",
+  "finish_time": "00:25:42",
+  "age_group": "SNM-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "ANTON GARDA PATIÑO",
+  "finish_time": "00:25:43",
+  "age_group": "SNM-10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "JORGE FANDIÑO MELLA",
+  "finish_time": "00:25:44",
+  "age_group": "SNM-11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "MIGUEL VILARIÑO PITA",
+  "finish_time": "00:25:46",
+  "age_group": "SNM-12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "IAGO PRADA MAROÑO",
+  "finish_time": "00:25:48",
+  "age_group": "JV1M-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "IVAN RUBIO RUBIRA",
+  "finish_time": "00:25:48",
+  "age_group": "VTBM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "ALEJANDRO VÁZQUEZ GÓMEZ",
+  "finish_time": "00:25:49",
+  "age_group": "SNM-13",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "PABLO BOCELO BELLAS",
+  "finish_time": "00:23:06",
+  "age_group": "SNM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "FACUNDO MEDARD",
+  "finish_time": "00:23:08",
+  "age_group": "SNM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "MIKEL OCERIN VAZQUEZ",
+  "finish_time": "00:23:40",
+  "age_group": "SNM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "ALVARO PRESEDO FRAGUÍO",
+  "finish_time": "00:23:58",
+  "age_group": "VTAM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "JOSE MARIA SANCHEZ SAN LUIS",
+  "finish_time": "00:24:14",
+  "age_group": "VTAM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "BRUNO GARCÍA CERDEIRAS",
+  "finish_time": "00:24:52",
+  "age_group": "VTBM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "ALEJANDRO PÉREZ VARELA",
+  "finish_time": "00:24:59",
+  "age_group": "SNM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "HUGO SOUTO ANDÚJAR",
+  "finish_time": "00:24:59",
+  "age_group": "JV1M-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "IAGO PRADA MAROÑO",
+  "finish_time": "00:25:00",
+  "age_group": "JV1M-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "ADRIAN SANCHO FERNANDEZ",
+  "finish_time": "00:25:02",
+  "age_group": "JV1M-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "DAVID ESTEBAN FERREIRO",
+  "finish_time": "00:25:05",
+  "age_group": "SNM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "LUCIANO JESÚS CARRETERO SANCHEZ",
+  "finish_time": "00:25:15",
+  "age_group": "VTAM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "CARLOS IGLESIAS AREA",
+  "finish_time": "00:25:22",
+  "age_group": "VTAM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "DAVID SANCHO FERNANDEZ",
+  "finish_time": "00:25:24",
+  "age_group": "JV2M-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "ANGEL MACEIRAS LAGO",
+  "finish_time": "00:25:34",
+  "age_group": "VTBM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "MARIO FRANCISCO FERNANDEZ",
+  "finish_time": "00:25:37",
+  "age_group": "VTBM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "FRANCISCO JAVIER MASEDA CARBALLO",
+  "finish_time": "00:25:38",
+  "age_group": "VTBM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "RUBEN BREGUA CHAS",
+  "finish_time": "00:25:53",
+  "age_group": "VTAM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "JUAN BOUZÓN BLANCO",
+  "finish_time": "00:25:54",
+  "age_group": "JV1M-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "SERGIO CARRIL BREA",
+  "finish_time": "00:26:00",
+  "age_group": "VTAM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "ABEL SOUTO CORES",
+  "finish_time": "00:26:05",
+  "age_group": "SNM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "RUBÉN OTERO LOSADA",
+  "finish_time": "00:26:06",
+  "age_group": "JV2M-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "LUÍS CABANAS BOCIJA",
+  "finish_time": "00:26:33",
+  "age_group": "VTAM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "RAMON SERANTES GÓMEZ",
+  "finish_time": "00:26:33",
+  "age_group": "VTBM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "BORJA LÓPEZ LÓPEZ",
+  "finish_time": "00:26:41",
+  "age_group": "SNM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "ANXO CASTRO VARELA",
+  "finish_time": "00:21:00",
+  "age_group": "VTAM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "PABLO BOCELO BELLAS",
+  "finish_time": "00:21:47",
+  "age_group": "SNM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "IAGO JOPIA ASTRAY",
+  "finish_time": "00:21:53",
+  "age_group": "SNM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "ALVARO PRESEDO FRAGUÍO",
+  "finish_time": "00:22:35",
+  "age_group": "VTAM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "ANTÓN GÓMEZ LÓPEZ",
+  "finish_time": "00:22:52",
+  "age_group": "SNM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "NUNO MOURE FERNÁNDEZ",
+  "finish_time": "00:22:55",
+  "age_group": "JV2M-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "FERNANDO DÍEZ",
+  "finish_time": "00:22:55",
+  "age_group": "VTAM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "ADRIAN SANCHO FERNÁNDEZ",
+  "finish_time": "00:22:56",
+  "age_group": "JV2M-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "FRANCISCO PAIS FONDO",
+  "finish_time": "00:23:14",
+  "age_group": "SNM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "ALEJANDRO PÉREZ VARELA",
+  "finish_time": "00:23:15",
+  "age_group": "SNM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "DOMINGO ETCHEVERRIA",
+  "finish_time": "00:23:21",
+  "age_group": "SNM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "JUAN PENA HOLGUIN",
+  "finish_time": "00:23:23",
+  "age_group": "VTAM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "JOSE MARIA SANCHEZ SAN LUIS",
+  "finish_time": "00:23:29",
+  "age_group": "VTAM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "IAGO PRADA MAROÑO",
+  "finish_time": "00:23:47",
+  "age_group": "JV2M-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "ALEJANDRO SERRANO BUJAN",
+  "finish_time": "00:23:50",
+  "age_group": "VTBM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "ESTEBAN MARTÍN ÁLVAREZ",
+  "finish_time": "00:24:02",
+  "age_group": "SNM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "BRAIS GARCÍA IGLESIAS",
+  "finish_time": "00:24:06",
+  "age_group": "SNM-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "CONSTANTE LORENZO SANTOS",
+  "finish_time": "00:24:10",
+  "age_group": "VTBM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "BRUNO GARCÍA CERDEIRAS",
+  "finish_time": "00:24:10",
+  "age_group": "VTBM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "MIKEL OCERIN VAZQUEZ",
+  "finish_time": "00:24:15",
+  "age_group": "SNM-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "JACI AUGUSTO MELLO BIRKHAN",
+  "finish_time": "00:24:19",
+  "age_group": "VTAM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "RYAN STOKES",
+  "finish_time": "00:24:22",
+  "age_group": "SNM-10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "DANIEL SALGUEIRO UCEIRA",
+  "finish_time": "00:24:28",
+  "age_group": "JV2M-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "CESAR PAZOS CANEDA",
+  "finish_time": "00:24:28",
+  "age_group": "SNM-11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2023,
+  "runner_name": "JORGE SIEIRA HERMIDA",
+  "finish_time": "00:24:36",
+  "age_group": "SNM-12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "ANXO CASTRO VARELA",
+  "finish_time": "00:22:24",
+  "age_group": "VTAM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "ADRIAN SANCHO FERNANDEZ",
+  "finish_time": "00:23:41",
+  "age_group": "JV2M-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "FACUNDO MEDARD",
+  "finish_time": "00:23:44",
+  "age_group": "SNM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "DOMINGO ETCHEVERRIA",
+  "finish_time": "00:23:50",
+  "age_group": "VTAM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "ANTÓN GÓMEZ LÓPEZ",
+  "finish_time": "00:23:53",
+  "age_group": "SNM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "ALVARO PRESEDO FRAGIO",
+  "finish_time": "00:23:56",
+  "age_group": "VTAM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "FERNANDO DÍEZ",
+  "finish_time": "00:24:06",
+  "age_group": "VTAM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "JUAN BOUZÓN BLANCO",
+  "finish_time": "00:24:17",
+  "age_group": "JV2M-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "ADRIAN MOSTEIRO",
+  "finish_time": "00:24:50",
+  "age_group": "SNM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "MIKEL OCERIN VAZQUEZ",
+  "finish_time": "00:24:54",
+  "age_group": "SNM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "NUNO MOURE FERNÁNDEZ",
+  "finish_time": "00:24:59",
+  "age_group": "JV2M-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "BRAIS GARCÍA IGLESIAS",
+  "finish_time": "00:25:02",
+  "age_group": "SNM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "JACI BIRKHAN",
+  "finish_time": "00:25:07",
+  "age_group": "VTBM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "DANIEL FUENTES BARDANCA",
+  "finish_time": "00:25:27",
+  "age_group": "VTAM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "HUGO SOUTO ANDÚJAR",
+  "finish_time": "00:25:31",
+  "age_group": "JV2M-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "JORGE JUAN TÁBARA RODRÍGUEZ",
+  "finish_time": "00:25:33",
+  "age_group": "SNM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "BRUNO RIADIGOS PIÑEIRO",
+  "finish_time": "00:25:36",
+  "age_group": "VTAM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "BRUNO CAL CABIDO",
+  "finish_time": "00:25:40",
+  "age_group": "SNM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "TOMAS PRADA MAROÑO",
+  "finish_time": "00:25:42",
+  "age_group": "SNM-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "MARCO CASTIÑEIRA PAIS",
+  "finish_time": "00:25:46",
+  "age_group": "SNM-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "IAGO PRADA MAROÑO",
+  "finish_time": "00:25:47",
+  "age_group": "JV2M-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "LUCAS PRADA MAROÑO",
+  "finish_time": "00:25:47",
+  "age_group": "JV1M-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "IRENE LORENZO PICON",
+  "finish_time": "00:25:48",
+  "age_group": "SNF-1",
+  "gender": "Femenino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "EDGAR CASTELO RODRÍGUEZ",
+  "finish_time": "00:25:48",
+  "age_group": "SNM-10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2024,
+  "runner_name": "ALEJANDRO BALSA CASTRO",
+  "finish_time": "00:25:50",
+  "age_group": "VTAM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "PABLO BOCELO BELLAS",
+  "finish_time": "00:23:07",
+  "age_group": "SNM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "ADRIÁN SANCHO FERNÁNDEZ",
+  "finish_time": "00:23:17",
+  "age_group": "JV2M-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "DAVID PÉREZ FILGUEIRAS",
+  "finish_time": "00:23:18",
+  "age_group": "SNM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "FACUNDO MEDARD",
+  "finish_time": "00:23:22",
+  "age_group": "SNM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "ANTÓN GÓMEZ LÓPEZ",
+  "finish_time": "00:23:32",
+  "age_group": "SNM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "DOMINGO ETCHEVERRIA",
+  "finish_time": "00:23:57",
+  "age_group": "VTAM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "IAGO PRADA MAROÑO",
+  "finish_time": "00:23:58",
+  "age_group": "JV2M-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "ADRIAN MOSTEIRO",
+  "finish_time": "00:24:00",
+  "age_group": "SNM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "BRAIS GARCIA IGLESIAS",
+  "finish_time": "00:24:02",
+  "age_group": "SNM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "JUAN BOUZON BLANCO",
+  "finish_time": "00:24:03",
+  "age_group": "JV2M-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "HUGO SOUTO ANDUJAR",
+  "finish_time": "00:24:12",
+  "age_group": "JV2M-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "JORGE SIEIRA HERMIDA",
+  "finish_time": "00:24:21",
+  "age_group": "SNM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "MIKEL OCERIN VAZQUEZ",
+  "finish_time": "00:24:36",
+  "age_group": "SNM-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "DAVID SANCHO FERNANDEZ",
+  "finish_time": "00:24:36",
+  "age_group": "SNM-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "ESTEBAN MARTÍN ÁLVAREZ",
+  "finish_time": "00:24:41",
+  "age_group": "SNM-10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "DAMIAN ARAUJO PEREZ",
+  "finish_time": "00:24:49",
+  "age_group": "VTAM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "PEDRO LOPEZ OTERO",
+  "finish_time": "00:24:55",
+  "age_group": "SNM-11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "DANIEL FUENTES BARDANCA",
+  "finish_time": "00:24:58",
+  "age_group": "VTAM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "TOMAS PRADA MAROÑO",
+  "finish_time": "00:25:02",
+  "age_group": "SNM-12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "BRUNO SALIDO JOVE",
+  "finish_time": "00:25:03",
+  "age_group": "SNM-13",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "EDGAR CASTELO RODRÍGUEZ",
+  "finish_time": "00:25:09",
+  "age_group": "SNM-14",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "LUCAS PRADA MAROÑO",
+  "finish_time": "00:25:17",
+  "age_group": "JV2M-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "ANDRÉS GOMES REZENDE",
+  "finish_time": "00:25:37",
+  "age_group": "JV2M-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "NICOLAS DOMINGUEZ GARCIA",
+  "finish_time": "00:25:38",
+  "age_group": "VTAM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2025,
+  "runner_name": "JACI AUGUSTO MELLO BIRKHAN",
+  "finish_time": "00:25:38",
+  "age_group": "VTBM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JOSE ANTONIO ABUIN TREUS",
+  "finish_time": "00:28:26",
+  "age_group": "17",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "PABLO LOPEZ FRANCO",
+  "finish_time": "00:28:37",
+  "age_group": "18",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "FELIX QUINTANS MELENDEZ",
+  "finish_time": "00:28:51",
+  "age_group": "19",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "DAVID ROMERO ALBORÉS",
+  "finish_time": "00:28:54",
+  "age_group": "20",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JOSE MARIA DRUET AMPUERO",
+  "finish_time": "00:28:55",
+  "age_group": "8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JESUS MANUEL CEBREIRO LOPEZ",
+  "finish_time": "00:28:55",
+  "age_group": "21",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "PABLO ANLLO RIVEIRO",
+  "finish_time": "00:29:00",
+  "age_group": "22",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "IVAN SEGADE CAROU",
+  "finish_time": "00:29:01",
+  "age_group": "3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JOSE FRANCISCO VAZQUEZ BRAÑAS",
+  "finish_time": "00:29:02",
+  "age_group": "23",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "PEDRO LISTA SUAREZ",
+  "finish_time": "00:29:06",
+  "age_group": "9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "PABLO GINES MAYOR",
+  "finish_time": "00:29:17",
+  "age_group": "24",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "EDUARDO SEOANE SANTISO",
+  "finish_time": "00:29:18",
+  "age_group": "25",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "FERNANDO JOSÉ VARELA CASTRO",
+  "finish_time": "00:29:23",
+  "age_group": "4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "SAUL GOMEZ ARROJO",
+  "finish_time": "00:29:24",
+  "age_group": "1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "MARIO GONZALEZ  FREIRE",
+  "finish_time": "00:29:24",
+  "age_group": "10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "ALBERTO PARDO FERNANDEZ",
+  "finish_time": "00:29:26",
+  "age_group": "26",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "DIEGO BERGONDO CAÑAS",
+  "finish_time": "00:29:28",
+  "age_group": "5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JULIAN AMOR GONZALEZ",
+  "finish_time": "00:29:35",
+  "age_group": "27",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "DIEGO PEREZ VIEITES",
+  "finish_time": "00:29:37",
+  "age_group": "6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "PAULO XOÁN MUINELO PEDREIRA",
+  "finish_time": "00:29:38",
+  "age_group": "28",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JUAN RAMON GARCIA HERNANZ",
+  "finish_time": "00:29:41",
+  "age_group": "29",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "ALVARO LOPEZ JACOME",
+  "finish_time": "00:29:43",
+  "age_group": "30",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "BENIGNO VARELA LOUREDA",
+  "finish_time": "00:29:44",
+  "age_group": "31",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JUAN CARLOS RECOUSO GARCIA",
+  "finish_time": "00:29:46",
+  "age_group": "11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2010,
+  "runner_name": "JOSÉ MARÍA FERNÁNDEZ BLANCO",
+  "finish_time": "00:29:49",
+  "age_group": "32",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "JOSÉ ANTONIO MARTÍNEZ GARCÍA",
+  "finish_time": "00:27:29",
+  "age_group": "3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "FERNANDO MANUEL LÓPEZ DE LAS HERAS",
+  "finish_time": "00:27:33",
+  "age_group": "17",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "DEIRDRE MC DERMOT",
+  "finish_time": "00:27:39",
+  "age_group": "1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "DIEGO RUIZ BREIJO",
+  "finish_time": "00:27:53",
+  "age_group": "6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "PABLO ANLLO RIVEIRO",
+  "finish_time": "00:28:00",
+  "age_group": "18",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "JAVIER ÁLVAREZ VARELA",
+  "finish_time": "00:28:07",
+  "age_group": "19",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "CARLOS FRANCISCO SALVADOR RODRIGUEZ",
+  "finish_time": "00:28:11",
+  "age_group": "7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "IVAN SEGADE CAROU",
+  "finish_time": "00:28:19",
+  "age_group": "20",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "FRANCISCO SANCHEZ GALAN",
+  "finish_time": "00:28:21",
+  "age_group": "4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "JOSE REY QUINTELA",
+  "finish_time": "00:28:24",
+  "age_group": "21",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "PABLO ROURA HERNÁNDEZ",
+  "finish_time": "00:28:27",
+  "age_group": "22",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "PABLO MELLA SÁNCHEZ",
+  "finish_time": "00:28:29",
+  "age_group": "23",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "DIEGO BERGONDO CAÑAS",
+  "finish_time": "00:28:39",
+  "age_group": "8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "JUAN RAMON GARCIA HERNANZ",
+  "finish_time": "00:28:39",
+  "age_group": "24",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "GUSTAVO LÓPEZ MORÁN",
+  "finish_time": "00:28:40",
+  "age_group": "25",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "Mª DEL CARMEN PENAS BLANCO",
+  "finish_time": "00:28:43",
+  "age_group": "2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "JOSE MANUEL SEIJO PEREZ",
+  "finish_time": "00:28:46",
+  "age_group": "26",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "FRANCISCO XABIER FERNANDEZ LAGUNA",
+  "finish_time": "00:28:49",
+  "age_group": "9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "MARCOS RODRIGUEZ SANCHEZ",
+  "finish_time": "00:28:50",
+  "age_group": "27",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "IAGO LÓPEZ SOMOZA",
+  "finish_time": "00:28:51",
+  "age_group": "11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "ROI BARROS CORRAL",
+  "finish_time": "00:28:51",
+  "age_group": "10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "ALBERTO PARDO FERNANDEZ",
+  "finish_time": "00:28:57",
+  "age_group": "28",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "ROBERTO GARCÍA PAZOS",
+  "finish_time": "00:28:58",
+  "age_group": "12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "JOSE RILO LOPEZ",
+  "finish_time": "00:28:59",
+  "age_group": "1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2011,
+  "runner_name": "PABLO LOPEZ FRANCO",
+  "finish_time": "00:29:05",
+  "age_group": "29",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "FERNANDO CANCELO BARBEITO",
+  "finish_time": "00:27:43",
+  "age_group": "18",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "PAULO XOÁN MUINELO PEDREIRA",
+  "finish_time": "00:27:45",
+  "age_group": "7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "JOSE MANUEL GONZALEZ IGLESIAS",
+  "finish_time": "00:27:56",
+  "age_group": "19",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "ROI BARROS CORRAL",
+  "finish_time": "00:28:09",
+  "age_group": "3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "CARLOS DEZA RODRIGUEZ",
+  "finish_time": "00:28:09",
+  "age_group": "20",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "EMILIO CAPELÁN MARTÍNEZ",
+  "finish_time": "00:28:14",
+  "age_group": "4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "IVAN RUBIO RUBIRA",
+  "finish_time": "00:28:19",
+  "age_group": "21",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "IVAN SEGADE CAROU",
+  "finish_time": "00:28:24",
+  "age_group": "22",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "DIEGO PÉREZ VIEITES",
+  "finish_time": "00:28:25",
+  "age_group": "5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "ALEJANDRO ALDAO LOPEZ",
+  "finish_time": "00:28:27",
+  "age_group": "23",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "MIGUEL ANTONIO GONZALEZ REY",
+  "finish_time": "00:28:30",
+  "age_group": "24",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "JOSE RILO LOPEZ",
+  "finish_time": "00:28:32",
+  "age_group": "1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "DEIRDRE MARY MC DERMOT",
+  "finish_time": "00:28:49",
+  "age_group": "1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "BENIGNO VARELA LOUREDA",
+  "finish_time": "00:28:50",
+  "age_group": "8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "ROBERTO GARCÍA PAZOS",
+  "finish_time": "00:28:55",
+  "age_group": "6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "JOSE LUIS MARTINEZ VICENTE",
+  "finish_time": "00:28:55",
+  "age_group": "25",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "JAVIER SÁNCHEZ PRIETO",
+  "finish_time": "00:28:55",
+  "age_group": "9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "JAVIER ÁLVAREZ VARELA",
+  "finish_time": "00:29:00",
+  "age_group": "26",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "DAVID NEGREIRA OUSINDE",
+  "finish_time": "00:29:02",
+  "age_group": "7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "FADY HOUT VARELA",
+  "finish_time": "00:29:05",
+  "age_group": "27",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "PABLO MELLA SÁNCHEZ",
+  "finish_time": "00:29:11",
+  "age_group": "28",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "ERNESTO SOBRINO MARFULL",
+  "finish_time": "00:29:12",
+  "age_group": "30",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "IVÁN LUGRÍS BETETA",
+  "finish_time": "00:29:12",
+  "age_group": "29",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "FRANCISCO SANCHEZ GALAN",
+  "finish_time": "00:29:17",
+  "age_group": "10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2012,
+  "runner_name": "JOSE LUIS PRADO MONTERO",
+  "finish_time": "00:29:21",
+  "age_group": "11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "PABLO ANLLO RIVEIRO",
+  "finish_time": "00:23:49",
+  "age_group": "VETERANOS B MASC-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "JOSE LUIS PRADO MONTERO",
+  "finish_time": "00:23:50",
+  "age_group": "VETERANOS B MASC-10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "LUCIANO JESÚS CARRETERO SANCHEZ",
+  "finish_time": "00:23:54",
+  "age_group": "VETERANOS A MASC-11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "ALFONSO RODRÍGUEZ DONO",
+  "finish_time": "00:24:06",
+  "age_group": "VETERANOS A MASC-12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "TITO LASTRES",
+  "finish_time": "00:24:08",
+  "age_group": "VETERANOS A MASC-13",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "JAVIER ÁLVAREZ VARELA",
+  "finish_time": "00:24:09",
+  "age_group": "VETERANOS A MASC-14",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "ANTONIO BLANCO VILLAR",
+  "finish_time": "00:24:10",
+  "age_group": "SENIOR MASCULINO-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "ADRIAN RODRIGUEZ CAMBON",
+  "finish_time": "00:24:12",
+  "age_group": "SENIOR MASCULINO-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "JUAN CARLOS GOMEZ EDREIRA",
+  "finish_time": "00:24:12",
+  "age_group": "VETERANOS A MASC-15",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "MIGUEL REGUEIRA VEIGA",
+  "finish_time": "00:24:14",
+  "age_group": "VETERANOS A MASC-16",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "JOSÉ ANTONIO MARTÍNEZ GARCÍA",
+  "finish_time": "00:24:18",
+  "age_group": "VETERANOS C MASC-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "BORJA SOUTO CAINZOS",
+  "finish_time": "00:24:18",
+  "age_group": "SENIOR MASCULINO-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "EDUARDO REY QUINTELA",
+  "finish_time": "00:24:19",
+  "age_group": "VETERANOS B MASC-11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "JUAN CHAO MARTÍNEZ",
+  "finish_time": "00:24:22",
+  "age_group": "SENIOR MASCULINO-10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "PABLO BOCELO BELLAS",
+  "finish_time": "00:24:26",
+  "age_group": "SENIOR MASCULINO-11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "DANIEL LOPEZ LEMA",
+  "finish_time": "00:24:28",
+  "age_group": "SENIOR MASCULINO-12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "RAMÓN JUEGA CUESTA",
+  "finish_time": "00:24:29",
+  "age_group": "VETERANOS A MASC-17",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "DAVID RAMOS BANEIRA",
+  "finish_time": "00:24:30",
+  "age_group": "VETERANOS A MASC-18",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "ALEJANDRO ALDAO LOPEZ",
+  "finish_time": "00:24:31",
+  "age_group": "VETERANOS A MASC-19",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "ENRIQUE SEOANE PUGA",
+  "finish_time": "00:24:31",
+  "age_group": "VETERANOS B MASC-12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "RAFAEL SUAREZ FERNANDEZ",
+  "finish_time": "00:24:35",
+  "age_group": "VETERANOS B MASC-13",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "AZIZ ZIRANI GATTARI",
+  "finish_time": "00:24:37",
+  "age_group": "VETERANOS B MASC-14",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "ANTONIO ILLOBRE JIMENEZ",
+  "finish_time": "00:24:39",
+  "age_group": "VETERANOS A MASC-20",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "IAGO LÓPEZ SOMOZA",
+  "finish_time": "00:24:40",
+  "age_group": "SENIOR MASCULINO-13",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2014,
+  "runner_name": "DANIEL PENAS LÓPEZ",
+  "finish_time": "00:24:46",
+  "age_group": "SENIOR MASCULINO-14",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "FERNANDO PEREZ HERNANDEZ",
+  "finish_time": "00:27:06",
+  "age_group": "VTBM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "JESUS MANUEL PUGA MARTINEZ",
+  "finish_time": "00:27:10",
+  "age_group": "VTBM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "PABLO ANLLO RIVEIRO",
+  "finish_time": "00:27:15",
+  "age_group": "VTBM-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "IVAN SEGADE CAROU",
+  "finish_time": "00:27:18",
+  "age_group": "VTAM-14",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "LUCIANO JESÚS CARRETERO SANCHEZ",
+  "finish_time": "00:27:21",
+  "age_group": "VTAM-15",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "JESUS ALVAREZ CHINCHILLA",
+  "finish_time": "00:27:22",
+  "age_group": "VTBM-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "JOSE MARIA AGUETE LEMA",
+  "finish_time": "00:27:26",
+  "age_group": "VTAM-16",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "JENSSEN GALAN",
+  "finish_time": "00:27:28",
+  "age_group": "VTAM-17",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "JESUS Mª ALVAREZ RODRIGUEZ",
+  "finish_time": "00:27:31",
+  "age_group": "VTBM-10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "ANTONIO BLANCO VILLAR",
+  "finish_time": "00:27:32",
+  "age_group": "SNM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "FELIPE MARTINEZ SANTOS",
+  "finish_time": "00:27:36",
+  "age_group": "VTAM-18",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "ALVARO LOPEZ JACOME",
+  "finish_time": "00:27:39",
+  "age_group": "VTAM-19",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "FRANCISCO JAVIER MOYA ALCAINA",
+  "finish_time": "00:27:41",
+  "age_group": "VTAM-20",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "BORJA SOUTO CAINZOS",
+  "finish_time": "00:27:45",
+  "age_group": "SNM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "ADRIAN RODRIGUEZ CAMBON",
+  "finish_time": "00:27:49",
+  "age_group": "SNM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "OSCAR DOPAZO PENIN",
+  "finish_time": "00:27:50",
+  "age_group": "VTAM-21",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "MARTIN BARCA GUILIN",
+  "finish_time": "00:27:59",
+  "age_group": "VTAM-22",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "FERNANDO MUIÑA FUENTES",
+  "finish_time": "00:28:02",
+  "age_group": "VTAM-23",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "DANIEL FRAGA LODEIRO",
+  "finish_time": "00:28:06",
+  "age_group": "JVM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "PABLO GINES MAYOR",
+  "finish_time": "00:28:07",
+  "age_group": "VTAM-24",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "MANUEL CORBELLE CASTRO",
+  "finish_time": "00:28:07",
+  "age_group": "VTBM-11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "RUBEN LOPEZ SEIJO",
+  "finish_time": "00:28:08",
+  "age_group": "VTAM-25",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "JOSÉ MANUEL LÓPEZ VARELA",
+  "finish_time": "00:28:08",
+  "age_group": "VTAM-26",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "SIMON LOPEZ EIROA",
+  "finish_time": "00:28:11",
+  "age_group": "VTBM-12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2015,
+  "runner_name": "JOSE LUIS SEOANE UZAL",
+  "finish_time": "00:28:12",
+  "age_group": "VTAM-27",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "NICOLAS GENS LÓPEZ",
+  "finish_time": "00:21:13",
+  "age_group": "JVM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "MIGUEL REGUEIRA VEIGA",
+  "finish_time": "00:21:16",
+  "age_group": "VTAM-12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "JAVIER ÁLVAREZ VARELA",
+  "finish_time": "00:21:24",
+  "age_group": "VTAM-13",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "FELIPE MARTINEZ SANTOS",
+  "finish_time": "00:21:25",
+  "age_group": "VTAM-14",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "SIN DATOS DEL DORSAL 4462",
+  "finish_time": "00:21:35",
+  "age_group": "VTAM-15",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "JESUS ALVAREZ CHINCHILLA",
+  "finish_time": "00:21:36",
+  "age_group": "VTBM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "FRANCISCO JAVIER VILA LOPEZ",
+  "finish_time": "00:21:38",
+  "age_group": "VTAM-16",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "JAVIER OUBIÑA ABUIN",
+  "finish_time": "00:21:40",
+  "age_group": "VTAM-17",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "IVAN RUBIO RUBIRA",
+  "finish_time": "00:21:42",
+  "age_group": "VTBM-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "JOSE LUIS SEOANE UZAL",
+  "finish_time": "00:21:44",
+  "age_group": "VTAM-18",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "DAVID HERRERA GARCIA",
+  "finish_time": "00:21:48",
+  "age_group": "VTAM-19",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "LORENZO SÁNCHEZ MARCOS",
+  "finish_time": "00:21:48",
+  "age_group": "VTCM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "JOSE LUIS PRADO MONTERO",
+  "finish_time": "00:21:52",
+  "age_group": "VTBM-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "JOSE MANUEL RODRIGUEZ MOURE",
+  "finish_time": "00:21:55",
+  "age_group": "VTBM-10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "PABLO ARADAS GARCÍA",
+  "finish_time": "00:22:01",
+  "age_group": "SNM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "ADRIÁN HAZ GARCÍA",
+  "finish_time": "00:22:07",
+  "age_group": "JVM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "MANUEL CORBELLE CASTRO",
+  "finish_time": "00:22:09",
+  "age_group": "VTBM-11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "JOSE RAMON PARDO GALDO",
+  "finish_time": "00:22:10",
+  "age_group": "VTAM-20",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "SANTIAGO VÁZQUEZ COLLAZO",
+  "finish_time": "00:22:12",
+  "age_group": "VTCM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "EDUARDO REY QUINTELA",
+  "finish_time": "00:22:14",
+  "age_group": "VTBM-12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "FERNANDO LOPEZ MARTINEZ",
+  "finish_time": "00:22:14",
+  "age_group": "VTAM-21",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "MAURO LLORENS CODINACH",
+  "finish_time": "00:22:14",
+  "age_group": "VTAM-22",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "XAQUIN BUGALLO DEL PUERTO",
+  "finish_time": "00:22:15",
+  "age_group": "VTAM-23",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "JORGE BENITO HERNANDEZ",
+  "finish_time": "00:22:15",
+  "age_group": "VTAM-24",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2016,
+  "runner_name": "NICOLAS FERNANDO BAS ROTH",
+  "finish_time": "00:22:18",
+  "age_group": "VTAM-25",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "DEIRDRE MC DERMOT",
+  "finish_time": "00:23:50",
+  "age_group": "VTAF-1",
+  "gender": "Femenino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "JESUS MARIA ALVAREZ RODRIGUEZ",
+  "finish_time": "00:23:56",
+  "age_group": "VTBM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "JAVIER ÁLVAREZ VARELA",
+  "finish_time": "00:24:01",
+  "age_group": "VTAM-11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "IVAN RUBIO RUBIRA",
+  "finish_time": "00:24:08",
+  "age_group": "VTBM-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "ANDRES PRIETO VILLAR",
+  "finish_time": "00:24:09",
+  "age_group": "JV1M-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "PABLO LEMA PEREZ",
+  "finish_time": "00:24:15",
+  "age_group": "VTCM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "ROBERTO MARTINEZ CASTRO",
+  "finish_time": "00:24:24",
+  "age_group": "VTAM-12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "PABLO ARADAS GARCÍA",
+  "finish_time": "00:24:29",
+  "age_group": "SNM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "MIGUEL ÁNGEL FERNÁNDEZ SOUTO",
+  "finish_time": "00:24:29",
+  "age_group": "VTAM-13",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "DIEGO COLLAZO VARELA",
+  "finish_time": "00:24:32",
+  "age_group": "SNM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "ADOLFO VILARES MACEIRAS",
+  "finish_time": "00:24:34",
+  "age_group": "VTBM-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "SANTIAGO VÁZQUEZ COLLAZO",
+  "finish_time": "00:24:35",
+  "age_group": "VTCM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "OSCAR DIEGUEZ PINTOR",
+  "finish_time": "00:24:42",
+  "age_group": "VTAM-14",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "ALBERTO VIGO SÁNCHEZ",
+  "finish_time": "00:24:44",
+  "age_group": "SNM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "JUAN CARLOS CASTRO FERNANDEZ",
+  "finish_time": "00:24:46",
+  "age_group": "VTAM-15",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "ROBERTO SUÁREZ VALLE",
+  "finish_time": "00:24:46",
+  "age_group": "SNM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "EDUARDO PÉREZ CAJARAVILLE",
+  "finish_time": "00:24:47",
+  "age_group": "SNM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "RICARDO GARCÍA GESTAL",
+  "finish_time": "00:24:52",
+  "age_group": "VTBM-10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "CHEMA RODRIGUEZ",
+  "finish_time": "00:24:52",
+  "age_group": "VTAM-16",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "DAVID HERRERA GARCIA",
+  "finish_time": "00:24:53",
+  "age_group": "VTAM-17",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "JOSÉ RAMON PARDO GALDO",
+  "finish_time": "00:24:53",
+  "age_group": "VTAM-18",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "LUCIANO JESÚS CARRETERO SANCHEZ",
+  "finish_time": "00:24:57",
+  "age_group": "VTAM-19",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "CHRISTIAN LOIS VARELA",
+  "finish_time": "00:24:58",
+  "age_group": "VTAM-20",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "IAGO LÓPEZ SOMOZA",
+  "finish_time": "00:24:58",
+  "age_group": "VTAM-21",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2017,
+  "runner_name": "JOSE VAZQUEZ POSE",
+  "finish_time": "00:25:01",
+  "age_group": "VTBM-11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "IVÁN SOMOZA ARGIBAY",
+  "finish_time": "00:23:26",
+  "age_group": "VTBM-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "FERNANDO PEREZ HERNANDEZ",
+  "finish_time": "00:23:28",
+  "age_group": "VTBM-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "FERNANDO VAZQUEZ  ARES",
+  "finish_time": "00:23:30",
+  "age_group": "VTBM-10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "DEIRDRE MC DERMOT",
+  "finish_time": "00:23:30",
+  "age_group": "VTAF-1",
+  "gender": "Femenino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "JESUS ALVAREZ CHINCHILLA",
+  "finish_time": "00:23:32",
+  "age_group": "VTCM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "LUCIANO JESÚS CARRETERO SANCHEZ",
+  "finish_time": "00:23:33",
+  "age_group": "VTAM-11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "EMILIO MARTINEZ ANTA",
+  "finish_time": "00:23:36",
+  "age_group": "VTCM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "FERNANDO DEL CORRAL REY",
+  "finish_time": "00:23:41",
+  "age_group": "VTAM-12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "FELIPE MARTINEZ SANTOS",
+  "finish_time": "00:23:46",
+  "age_group": "VTBM-11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "IAGO LÓPEZ SOMOZA",
+  "finish_time": "00:23:53",
+  "age_group": "VTAM-13",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "MATEO TORRES NEIRA",
+  "finish_time": "00:23:58",
+  "age_group": "VTAM-14",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "PEDRO ROMERO MARTÍNEZ",
+  "finish_time": "00:24:02",
+  "age_group": "JV2M-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "MIGUEL VILARIÑO PITA",
+  "finish_time": "00:24:04",
+  "age_group": "SNM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "JAVIER ARIAS DE LA VEGA",
+  "finish_time": "00:24:05",
+  "age_group": "VTBM-12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "XAQUIN BUGALLO DEL PUERTO",
+  "finish_time": "00:24:07",
+  "age_group": "VTAM-15",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "MATÍAS GARCÍA-ANLLO",
+  "finish_time": "00:24:09",
+  "age_group": "VTBM-13",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "MIGUEL ANGEL GOMEZ SENIN",
+  "finish_time": "00:24:11",
+  "age_group": "VTBM-14",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "JUAN CARLOS CASTRO FERNANDEZ",
+  "finish_time": "00:24:11",
+  "age_group": "VTAM-16",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "MIGUEL CASTRO RAMOS",
+  "finish_time": "00:24:16",
+  "age_group": "VTAM-17",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "JOSÉ RAMON PARDO GALDO",
+  "finish_time": "00:24:20",
+  "age_group": "VTAM-18",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "IAGO SÁNCHEZ FARIÑAS",
+  "finish_time": "00:24:21",
+  "age_group": "JV2M-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "PABLO ARADAS GARCÍA",
+  "finish_time": "00:24:23",
+  "age_group": "SNM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "ANTONIO PEREIRO CALVIÑO",
+  "finish_time": "00:24:26",
+  "age_group": "VTBM-15",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "OSCAR DIEGUEZ PINTOR",
+  "finish_time": "00:24:28",
+  "age_group": "VTAM-19",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2018,
+  "runner_name": "DAVID ESTEBAN FERREIRO",
+  "finish_time": "00:24:30",
+  "age_group": "SNM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "MIGUEL VILARIÑO PITA",
+  "finish_time": "00:24:44",
+  "age_group": "SNM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "ALBERTO SAN EMETERIO FERNÁNDEZ",
+  "finish_time": "00:24:49",
+  "age_group": "VTAM-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "ADRIÁN ROJO LUACES",
+  "finish_time": "00:24:50",
+  "age_group": "VTAM-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "LUCIANO JESÚS CARRETERO SANCHEZ",
+  "finish_time": "00:24:51",
+  "age_group": "VTAM-10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "FERNANDO VAZQUEZ  ARES",
+  "finish_time": "00:24:53",
+  "age_group": "VTBM-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "PABLO LEMA PEREZ",
+  "finish_time": "00:24:54",
+  "age_group": "VTCM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "JOSE ANTONIO ABUIN TREUS",
+  "finish_time": "00:24:55",
+  "age_group": "VTBM-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "JAVIER SEOANE PUGA",
+  "finish_time": "00:24:57",
+  "age_group": "VTBM-10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "EDGAR CASTELO RODRÍGUEZ",
+  "finish_time": "00:24:57",
+  "age_group": "SNM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "XAQUIN BUGALLO DEL PUERTO",
+  "finish_time": "00:24:59",
+  "age_group": "VTBM-11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "DAVID HERRERA GARCÍA",
+  "finish_time": "00:25:04",
+  "age_group": "VTAM-11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "NICOLAS DOMINGUEZ GARCIA",
+  "finish_time": "00:25:04",
+  "age_group": "VTAM-12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "FERNANDO DEL CORRAL REY",
+  "finish_time": "00:25:07",
+  "age_group": "VTAM-13",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "IVAN RUBIO RUBIRA",
+  "finish_time": "00:25:10",
+  "age_group": "VTBM-12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "DIEGO BENEDICTO RIVAS",
+  "finish_time": "00:25:12",
+  "age_group": "JV2M-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "DEIRDRE MC DERMOT",
+  "finish_time": "00:25:17",
+  "age_group": "VTBF-1",
+  "gender": "Femenino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "ADRIÁN SOUTO IGLESIAS",
+  "finish_time": "00:25:29",
+  "age_group": "SNM-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "FERNANDO PEREZ HERNANDEZ",
+  "finish_time": "00:25:30",
+  "age_group": "VTCM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "JAVIER OUBIÑA ABUIN",
+  "finish_time": "00:25:31",
+  "age_group": "VTBM-13",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "ALEJANDRO SCURO ROSSI",
+  "finish_time": "00:25:31",
+  "age_group": "VTAM-14",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "HARITZ AYALA",
+  "finish_time": "00:25:31",
+  "age_group": "VTAM-15",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "JAVIER ÁLVAREZ VARELA",
+  "finish_time": "00:25:39",
+  "age_group": "VTBM-14",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "EMILIO MARTINEZ ANTA",
+  "finish_time": "00:25:42",
+  "age_group": "VTCM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "OSCAR DIEGUEZ PINTOR",
+  "finish_time": "00:25:44",
+  "age_group": "VTAM-16",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2019,
+  "runner_name": "JUAN GUTIERREZ MEYER",
+  "finish_time": "00:25:48",
+  "age_group": "SNM-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "IAGO MEDIN LEIRO",
+  "finish_time": "00:26:00",
+  "age_group": "VTAM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "CESAR PAZOS CANEDA",
+  "finish_time": "00:26:07",
+  "age_group": "SNM-14",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "RUBÉN SÁNCHEZ VÁZQUEZ",
+  "finish_time": "00:26:07",
+  "age_group": "VTAM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "JOSE CARNERO RUIZ",
+  "finish_time": "00:26:10",
+  "age_group": "VTAM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "FERNANDO LOPEZ MARTINEZ",
+  "finish_time": "00:26:11",
+  "age_group": "VTBM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "HUGO SOUTO ANDÚJAR",
+  "finish_time": "00:26:14",
+  "age_group": "JV1M-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "BRUNO RIADIGOS PIÑEIRO",
+  "finish_time": "00:26:16",
+  "age_group": "VTAM-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "ISMAEL GONZÁLEZ RODRÍGUEZ",
+  "finish_time": "00:26:23",
+  "age_group": "VTAM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "DANIEL SALGUEIRO UCEIRA",
+  "finish_time": "00:26:23",
+  "age_group": "JV1M-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "XAQUIN BUGALLO DEL PUERTO",
+  "finish_time": "00:26:23",
+  "age_group": "VTBM-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "KARINA CALLON TREUS",
+  "finish_time": "00:26:28",
+  "age_group": "VTBF-1",
+  "gender": "Femenino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "JESUS ALVAREZ CHINCHILLA",
+  "finish_time": "00:26:28",
+  "age_group": "VTCM-1",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "PABLO LEMA",
+  "finish_time": "00:26:29",
+  "age_group": "VTCM-2",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "BRAIS GARCÍA IGLESIAS",
+  "finish_time": "00:26:36",
+  "age_group": "JV2M-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "DIEGO BERMÚDEZ REMUIÑÁN",
+  "finish_time": "00:26:37",
+  "age_group": "VTAM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "JOSE LUIS RIO SILVA",
+  "finish_time": "00:26:38",
+  "age_group": "VTCM-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "MARTÍN BARREIRO DURÁN",
+  "finish_time": "00:26:40",
+  "age_group": "JV2M-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "JOSE MARIA FERNANDEZ LOPEZ",
+  "finish_time": "00:26:49",
+  "age_group": "VTCM-4",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "DIEGO BELLO YAÑEZ",
+  "finish_time": "00:26:52",
+  "age_group": "VTAM-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "SIMON LOPEZ EIROA",
+  "finish_time": "00:26:55",
+  "age_group": "VTBM-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "CRISTÓBAL MARTÍN SÁNCHEZ",
+  "finish_time": "00:26:56",
+  "age_group": "VTAM-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "ALEJANDRO SCURO ROSSI",
+  "finish_time": "00:26:58",
+  "age_group": "VTAM-10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "BORJA SOUTO CAINZOS",
+  "finish_time": "00:27:00",
+  "age_group": "SNM-15",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "RAFAEL PIÑEIRO LESTON",
+  "finish_time": "00:27:02",
+  "age_group": "SNM-16",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2021,
+  "runner_name": "TOMÁS PRADA MAROÑO",
+  "finish_time": "00:27:04",
+  "age_group": "JV2M-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "HECTOR GONZALEZ MARTINEZ",
+  "finish_time": "00:26:45",
+  "age_group": "VTAM-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "JORGE CARLOS GONZALEZ GARCIA",
+  "finish_time": "00:26:46",
+  "age_group": "VTAM-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "CARLOS MOAR ARES",
+  "finish_time": "00:26:50",
+  "age_group": "SNM-8",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "FRANCISCO JAVIER GONZÁLEZ LEDO",
+  "finish_time": "00:26:52",
+  "age_group": "VTBM-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "NUNO MOURE FERNÁNDEZ",
+  "finish_time": "00:26:53",
+  "age_group": "JV2M-3",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "FADY HOUT VARELA",
+  "finish_time": "00:26:54",
+  "age_group": "VTBM-7",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "OSCAR ALBERTE TEIJEIRO",
+  "finish_time": "00:26:55",
+  "age_group": "JV1M-5",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "JACI AUGUSTO MELLO BIRKHAN",
+  "finish_time": "00:26:56",
+  "age_group": "VTAM-10",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "ANTÓN NO NÚÑEZ",
+  "finish_time": "00:26:59",
+  "age_group": "JV1M-6",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "JUAN CARLOS VAZQUEZ GRELA",
+  "finish_time": "00:27:00",
+  "age_group": "VTAM-11",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "PABLO MARCOS PAZOS",
+  "finish_time": "00:27:01",
+  "age_group": "SNM-9",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "IAGO LÓPEZ SOMOZA",
+  "finish_time": "00:27:04",
+  "age_group": "VTAM-12",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
+{
+  "edicion": 2022,
+  "runner_name": "ALEXANDRE RODRÍGUEZ PAZ",
+  "finish_time": "00:27:07",
+  "age_group": "VTAM-13",
+  "gender": "Masculino",
+  "dorsal": "",
+  "race_distance": "7.5",
+  "location": "A Coruña"
+},
