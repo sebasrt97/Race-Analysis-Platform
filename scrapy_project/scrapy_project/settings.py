@@ -19,7 +19,7 @@ ADDONS = {}
 #USER_AGENT = "scrapy_project (+http://www.yourdomain.com)"
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Concurrency and throttling settings
 #CONCURRENT_REQUESTS = 16
@@ -85,3 +85,7 @@ DOWNLOAD_DELAY = 1
 
 # Set settings whose default value is deprecated to a future-proof value
 FEED_EXPORT_ENCODING = "utf-8"
+
+USER_AGENT = 'Mozilla/5.0'
+
+FEED_EXPORT_INDENT = 2
