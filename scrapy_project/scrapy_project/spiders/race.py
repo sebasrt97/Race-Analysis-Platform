@@ -32,20 +32,32 @@ class RaceSpider(scrapy.Spider):
             )
 
     def parse(self, response):
-       anio = response.meta['anio']
+        anio = response.meta['anio']
 
-       # Logica de extraccion
+        # Localizamos las filas de la tabla de resultados
+        rows = response.css('table.table-striped tbody tr')
 
+        for row in rows:
+            # Extraemos nombre y apellidos para combinarlos
+            nombre = row.css('td.nombre *::text').get('').strip()
+            apellidos = row.css('td.apellidos *::text').get('').strip()
+            
+            # Género basado en el texto de la columna correspondiente
+            sexo_raw = row.css('td.get_puesto_sexo_display::text').get('').upper()
+            genero = "Masculino" if "M" in sexo_raw else "Femenino"
 
-
-       #############
-
-       filas = response.css('table.participantes tr')
-        
-       for fila in filas:
             yield {
                 'edicion': anio,
-                'nombre': fila.css('td.nombre::text').get(),
-                'dorsal': fila.css('td.dorsal::text').get(),
-                'tiempo': fila.css('td.tiempo::text').get(),
+                'runner_name': f"{nombre} {apellidos}".strip(),
+                'finish_time': row.css('td.tiempo_display::text').get('').strip(),
+                'age_group': row.css('td.get_puesto_categoria_display::text').get('').strip(),
+                'gender': genero,
+                'dorsal': row.css('td.dorsal::text').get('').strip(),
+                'race_distance': '7.5',
+                'location': 'A Coruña'
             }
+            
+        next_page = response.xpath('//a[contains(text(), "Siguiente") or contains(text(), ">")]/@href').get()
+        
+        if next_page:
+            yield response.follow(next_page, callback=self.parse, meta={'anio': anio})
