@@ -34,6 +34,12 @@ class RaceSpider(scrapy.Spider):
     def parse(self, response):
        anio = response.meta['anio']
 
+       # Logica de extraccion
+
+
+
+       #############
+
        filas = response.css('table.participantes tr')
         
        for fila in filas:
