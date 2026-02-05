@@ -5,7 +5,7 @@
   "finish_time": "00:23:50",
   "age_group": "1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -15,7 +15,7 @@
   "finish_time": "00:24:21",
   "age_group": "1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -25,7 +25,7 @@
   "finish_time": "00:24:49",
   "age_group": "2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -35,7 +35,7 @@
   "finish_time": "00:25:40",
   "age_group": "3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -45,7 +45,7 @@
   "finish_time": "00:25:55",
   "age_group": "4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -55,7 +55,7 @@
   "finish_time": "00:26:00",
   "age_group": "5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -65,7 +65,7 @@
   "finish_time": "00:26:13",
   "age_group": "1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -75,7 +75,7 @@
   "finish_time": "00:26:17",
   "age_group": "2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -85,7 +85,7 @@
   "finish_time": "00:26:21",
   "age_group": "2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -95,7 +95,7 @@
   "finish_time": "00:26:22",
   "age_group": "6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -105,7 +105,7 @@
   "finish_time": "00:26:32",
   "age_group": "7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -115,7 +115,7 @@
   "finish_time": "00:26:54",
   "age_group": "3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -125,7 +125,7 @@
   "finish_time": "00:27:14",
   "age_group": "8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -135,7 +135,7 @@
   "finish_time": "00:27:15",
   "age_group": "4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -145,7 +145,7 @@
   "finish_time": "00:27:16",
   "age_group": "9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -155,7 +155,7 @@
   "finish_time": "00:27:22",
   "age_group": "1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -165,7 +165,7 @@
   "finish_time": "00:27:36",
   "age_group": "11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -175,7 +175,7 @@
   "finish_time": "00:27:39",
   "age_group": "5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -185,7 +185,7 @@
   "finish_time": "00:27:51",
   "age_group": "12",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -195,7 +195,7 @@
   "finish_time": "00:27:57",
   "age_group": "13",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -205,7 +205,7 @@
   "finish_time": "00:28:04",
   "age_group": "14",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -215,7 +215,7 @@
   "finish_time": "00:28:08",
   "age_group": "15",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -225,7 +225,7 @@
   "finish_time": "00:28:12",
   "age_group": "6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -235,7 +235,7 @@
   "finish_time": "00:28:18",
   "age_group": "16",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -245,7 +245,7 @@
   "finish_time": "00:28:24",
   "age_group": "7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -255,7 +255,7 @@
   "finish_time": "00:24:11",
   "age_group": "1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -265,7 +265,7 @@
   "finish_time": "00:24:33",
   "age_group": "2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -275,7 +275,7 @@
   "finish_time": "00:24:35",
   "age_group": "1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -285,7 +285,7 @@
   "finish_time": "00:24:57",
   "age_group": "3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -295,7 +295,7 @@
   "finish_time": "00:25:17",
   "age_group": "2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -305,7 +305,7 @@
   "finish_time": "00:25:20",
   "age_group": "4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -315,7 +315,7 @@
   "finish_time": "00:25:23",
   "age_group": "5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -325,7 +325,7 @@
   "finish_time": "00:25:56",
   "age_group": "6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -335,7 +335,7 @@
   "finish_time": "00:25:59",
   "age_group": "7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -345,7 +345,7 @@
   "finish_time": "00:26:04",
   "age_group": "3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -355,7 +355,7 @@
   "finish_time": "00:26:40",
   "age_group": "8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -365,7 +365,7 @@
   "finish_time": "00:26:56",
   "age_group": "9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -375,7 +375,7 @@
   "finish_time": "00:26:57",
   "age_group": "10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -385,7 +385,7 @@
   "finish_time": "00:26:58",
   "age_group": "1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -395,7 +395,7 @@
   "finish_time": "00:26:59",
   "age_group": "11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -405,7 +405,7 @@
   "finish_time": "00:27:00",
   "age_group": "12",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -415,7 +415,7 @@
   "finish_time": "00:27:00",
   "age_group": "4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -425,7 +425,7 @@
   "finish_time": "00:27:01",
   "age_group": "1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -435,7 +435,7 @@
   "finish_time": "00:27:04",
   "age_group": "2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -445,7 +445,7 @@
   "finish_time": "00:27:08",
   "age_group": "13",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -455,7 +455,7 @@
   "finish_time": "00:27:21",
   "age_group": "5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -465,7 +465,7 @@
   "finish_time": "00:27:22",
   "age_group": "14",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -475,7 +475,7 @@
   "finish_time": "00:27:24",
   "age_group": "15",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -485,7 +485,7 @@
   "finish_time": "00:27:25",
   "age_group": "16",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -495,7 +495,7 @@
   "finish_time": "00:27:28",
   "age_group": "2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -505,7 +505,7 @@
   "finish_time": "00:24:29",
   "age_group": "1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -515,7 +515,7 @@
   "finish_time": "00:25:14",
   "age_group": "2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -525,7 +525,7 @@
   "finish_time": "00:25:38",
   "age_group": "1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -535,7 +535,7 @@
   "finish_time": "00:25:44",
   "age_group": "2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -545,7 +545,7 @@
   "finish_time": "00:26:03",
   "age_group": "3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -555,7 +555,7 @@
   "finish_time": "00:26:12",
   "age_group": "4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -565,7 +565,7 @@
   "finish_time": "00:26:24",
   "age_group": "1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -575,7 +575,7 @@
   "finish_time": "00:26:25",
   "age_group": "5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -585,7 +585,7 @@
   "finish_time": "00:26:27",
   "age_group": "7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -595,7 +595,7 @@
   "finish_time": "00:26:27",
   "age_group": "6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -605,7 +605,7 @@
   "finish_time": "00:26:35",
   "age_group": "8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -615,7 +615,7 @@
   "finish_time": "00:26:45",
   "age_group": "9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -625,7 +625,7 @@
   "finish_time": "00:26:47",
   "age_group": "2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -635,7 +635,7 @@
   "finish_time": "00:26:47",
   "age_group": "10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -645,7 +645,7 @@
   "finish_time": "00:26:48",
   "age_group": "11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -655,7 +655,7 @@
   "finish_time": "00:26:49",
   "age_group": "3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -665,7 +665,7 @@
   "finish_time": "00:26:51",
   "age_group": "12",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -675,7 +675,7 @@
   "finish_time": "00:26:52",
   "age_group": "13",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -685,7 +685,7 @@
   "finish_time": "00:26:57",
   "age_group": "4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -695,7 +695,7 @@
   "finish_time": "00:27:00",
   "age_group": "14",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -705,7 +705,7 @@
   "finish_time": "00:27:00",
   "age_group": "5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -715,7 +715,7 @@
   "finish_time": "00:27:07",
   "age_group": "15",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -725,7 +725,7 @@
   "finish_time": "00:27:12",
   "age_group": "6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -735,7 +735,7 @@
   "finish_time": "00:27:23",
   "age_group": "16",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -745,7 +745,7 @@
   "finish_time": "00:27:32",
   "age_group": "17",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -755,7 +755,7 @@
   "finish_time": "00:20:55",
   "age_group": "VETERANOS A MASC-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -765,7 +765,7 @@
   "finish_time": "00:20:55",
   "age_group": "VETERANOS B MASC-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -775,7 +775,7 @@
   "finish_time": "00:21:29",
   "age_group": "SENIOR MASCULINO-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1023",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -785,7 +785,7 @@
   "finish_time": "00:21:29",
   "age_group": "VETERANOS A MASC-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "12",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -795,7 +795,7 @@
   "finish_time": "00:21:38",
   "age_group": "VETERANOS B MASC-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "26",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -805,7 +805,7 @@
   "finish_time": "00:21:47",
   "age_group": "VETERANOS A MASC-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -815,7 +815,7 @@
   "finish_time": "00:22:00",
   "age_group": "VETERANOS B MASC-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "18",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -825,7 +825,7 @@
   "finish_time": "00:22:08",
   "age_group": "VETERANOS B MASC-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "81",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -835,7 +835,7 @@
   "finish_time": "00:22:27",
   "age_group": "SENIOR MASCULINO-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "59",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -845,7 +845,7 @@
   "finish_time": "00:22:31",
   "age_group": "VETERANOS A MASC-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "78",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -855,7 +855,7 @@
   "finish_time": "00:22:33",
   "age_group": "VETERANOS A MASC-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "22",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -865,7 +865,7 @@
   "finish_time": "00:22:38",
   "age_group": "VETERANOS B MASC-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -875,7 +875,7 @@
   "finish_time": "00:22:50",
   "age_group": "SENIOR MASCULINO-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "43",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -885,7 +885,7 @@
   "finish_time": "00:22:54",
   "age_group": "VETERANOS A MASC-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "49",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -895,7 +895,7 @@
   "finish_time": "00:22:55",
   "age_group": "SENIOR MASCULINO-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1033",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -905,7 +905,7 @@
   "finish_time": "00:23:08",
   "age_group": "VETERANOS A MASC-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "127",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -915,7 +915,7 @@
   "finish_time": "00:23:12",
   "age_group": "SENIOR MASCULINO-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "68",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -925,7 +925,7 @@
   "finish_time": "00:23:12",
   "age_group": "VETERANOS A MASC-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "69",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -935,7 +935,7 @@
   "finish_time": "00:23:18",
   "age_group": "VETERANOS A MASC-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "23",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -945,7 +945,7 @@
   "finish_time": "00:23:24",
   "age_group": "VETERANOS B MASC-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "25",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -955,7 +955,7 @@
   "finish_time": "00:23:26",
   "age_group": "VETERANOS B MASC-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2293",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -965,7 +965,7 @@
   "finish_time": "00:23:30",
   "age_group": "VETERANOS A MASC-10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1010",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -975,7 +975,7 @@
   "finish_time": "00:23:32",
   "age_group": "VETERANOS C MASC-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "155",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -985,7 +985,7 @@
   "finish_time": "00:23:34",
   "age_group": "VETERANOS B MASC-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "28",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -995,7 +995,7 @@
   "finish_time": "00:23:37",
   "age_group": "SENIOR MASCULINO-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "85",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1005,7 +1005,7 @@
   "finish_time": "00:24:19",
   "age_group": "SNM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "67",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1015,7 +1015,7 @@
   "finish_time": "00:24:36",
   "age_group": "VTAM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "467",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1025,7 +1025,7 @@
   "finish_time": "00:24:45",
   "age_group": "JVM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "474",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1035,7 +1035,7 @@
   "finish_time": "00:24:51",
   "age_group": "VTAM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "5",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1045,7 +1045,7 @@
   "finish_time": "00:24:57",
   "age_group": "SNM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1134",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1055,7 +1055,7 @@
   "finish_time": "00:24:58",
   "age_group": "VTBM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "7",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1065,7 +1065,7 @@
   "finish_time": "00:25:00",
   "age_group": "VTAM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "263",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1075,7 +1075,7 @@
   "finish_time": "00:25:03",
   "age_group": "VTAM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1003",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1085,7 +1085,7 @@
   "finish_time": "00:25:07",
   "age_group": "VTAM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3109",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1095,7 +1095,7 @@
   "finish_time": "00:25:57",
   "age_group": "VTBM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1105,7 +1105,7 @@
   "finish_time": "00:25:58",
   "age_group": "SNM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "227",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1115,7 +1115,7 @@
   "finish_time": "00:25:59",
   "age_group": "VTAM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "105",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1125,7 +1125,7 @@
   "finish_time": "00:26:01",
   "age_group": "VTAM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "109",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1135,7 +1135,7 @@
   "finish_time": "00:26:13",
   "age_group": "VTAM-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "322",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1145,7 +1145,7 @@
   "finish_time": "00:26:18",
   "age_group": "VTBM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "143",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1155,7 +1155,7 @@
   "finish_time": "00:26:21",
   "age_group": "VTAM-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "8",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1165,7 +1165,7 @@
   "finish_time": "00:26:23",
   "age_group": "VTBM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "6",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1175,7 +1175,7 @@
   "finish_time": "00:26:26",
   "age_group": "VTCM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "42",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1185,7 +1185,7 @@
   "finish_time": "00:26:28",
   "age_group": "VTAM-10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2551",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1195,7 +1195,7 @@
   "finish_time": "00:26:33",
   "age_group": "VTAM-11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "904",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1205,7 +1205,7 @@
   "finish_time": "00:26:39",
   "age_group": "SNM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1205",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1215,7 +1215,7 @@
   "finish_time": "00:26:47",
   "age_group": "VTBM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "342",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1225,7 +1225,7 @@
   "finish_time": "00:26:53",
   "age_group": "VTAM-12",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "458",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1235,7 +1235,7 @@
   "finish_time": "00:26:57",
   "age_group": "JVM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1215",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1245,7 +1245,7 @@
   "finish_time": "00:26:58",
   "age_group": "VTAM-13",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "97",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1255,7 +1255,7 @@
   "finish_time": "00:18:03",
   "age_group": "VTAM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "376",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1265,7 +1265,7 @@
   "finish_time": "00:19:38",
   "age_group": "SNM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1275,7 +1275,7 @@
   "finish_time": "00:19:40",
   "age_group": "VTAM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1285,7 +1285,7 @@
   "finish_time": "00:19:40",
   "age_group": "VTAM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "225",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1295,7 +1295,7 @@
   "finish_time": "00:19:46",
   "age_group": "VTBM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1305,7 +1305,7 @@
   "finish_time": "00:19:51",
   "age_group": "VTAM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "74",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1315,7 +1315,7 @@
   "finish_time": "00:19:56",
   "age_group": "SNM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "90",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1325,7 +1325,7 @@
   "finish_time": "00:20:02",
   "age_group": "VTBM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "29",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1335,7 +1335,7 @@
   "finish_time": "00:20:15",
   "age_group": "JVM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "925",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1345,7 +1345,7 @@
   "finish_time": "00:20:36",
   "age_group": "JVM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "271",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1355,7 +1355,7 @@
   "finish_time": "00:20:37",
   "age_group": "VTBM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "132",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1365,7 +1365,7 @@
   "finish_time": "00:20:38",
   "age_group": "VTAM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2022",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1375,7 +1375,7 @@
   "finish_time": "00:20:39",
   "age_group": "VTAM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "920",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1385,7 +1385,7 @@
   "finish_time": "00:20:40",
   "age_group": "VTAM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "896",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1395,7 +1395,7 @@
   "finish_time": "00:20:42",
   "age_group": "VTAM-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "45",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1405,7 +1405,7 @@
   "finish_time": "00:20:47",
   "age_group": "VTBM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "126",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1415,7 +1415,7 @@
   "finish_time": "00:20:55",
   "age_group": "VTBM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "28",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1425,7 +1425,7 @@
   "finish_time": "00:20:56",
   "age_group": "SNM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2035",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1435,7 +1435,7 @@
   "finish_time": "00:20:57",
   "age_group": "SNM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "10",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1445,7 +1445,7 @@
   "finish_time": "00:21:00",
   "age_group": "VTAM-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3728",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1455,7 +1455,7 @@
   "finish_time": "00:21:03",
   "age_group": "JVM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "270",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1465,7 +1465,7 @@
   "finish_time": "00:21:05",
   "age_group": "VTAM-10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "60",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1475,7 +1475,7 @@
   "finish_time": "00:21:06",
   "age_group": "VTAM-11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "540",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1485,7 +1485,7 @@
   "finish_time": "00:21:09",
   "age_group": "VTBM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "41",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1495,7 +1495,7 @@
   "finish_time": "00:21:10",
   "age_group": "VTCM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "71",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1505,7 +1505,7 @@
   "finish_time": "00:21:02",
   "age_group": "SNM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1515,7 +1515,7 @@
   "finish_time": "00:21:07",
   "age_group": "VTBM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4910",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1525,7 +1525,7 @@
   "finish_time": "00:21:19",
   "age_group": "VTAM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2131",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1535,7 +1535,7 @@
   "finish_time": "00:21:51",
   "age_group": "VTAM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "7",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1545,7 +1545,7 @@
   "finish_time": "00:22:06",
   "age_group": "VTAM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "41",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1555,7 +1555,7 @@
   "finish_time": "00:22:20",
   "age_group": "SNM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2277",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1565,7 +1565,7 @@
   "finish_time": "00:22:24",
   "age_group": "VTBM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "87",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1575,7 +1575,7 @@
   "finish_time": "00:22:26",
   "age_group": "JV2M-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "267",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1585,7 +1585,7 @@
   "finish_time": "00:22:31",
   "age_group": "JV2M-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "10",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1595,7 +1595,7 @@
   "finish_time": "00:22:32",
   "age_group": "VTBM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "8",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1605,7 +1605,7 @@
   "finish_time": "00:22:32",
   "age_group": "VTAM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "92",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1615,7 +1615,7 @@
   "finish_time": "00:22:34",
   "age_group": "VTAM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "364",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1625,7 +1625,7 @@
   "finish_time": "00:22:43",
   "age_group": "VTAM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "65",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1635,7 +1635,7 @@
   "finish_time": "00:22:50",
   "age_group": "VTAM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1027",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1645,7 +1645,7 @@
   "finish_time": "00:22:58",
   "age_group": "VTBM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "265",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1655,7 +1655,7 @@
   "finish_time": "00:23:06",
   "age_group": "VTAM-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "268",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1665,7 +1665,7 @@
   "finish_time": "00:23:13",
   "age_group": "JV2M-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2030",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1675,7 +1675,7 @@
   "finish_time": "00:23:28",
   "age_group": "VTAM-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2001",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1685,7 +1685,7 @@
   "finish_time": "00:23:35",
   "age_group": "JV2M-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2137",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1695,7 +1695,7 @@
   "finish_time": "00:23:37",
   "age_group": "JV2M-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "39",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1705,7 +1705,7 @@
   "finish_time": "00:23:38",
   "age_group": "VTBM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "55",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1715,7 +1715,7 @@
   "finish_time": "00:23:44",
   "age_group": "JV2M-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2396",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1725,7 +1725,7 @@
   "finish_time": "00:23:47",
   "age_group": "VTAM-10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "67",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1735,7 +1735,7 @@
   "finish_time": "00:23:47",
   "age_group": "VTBM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "38",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1745,7 +1745,7 @@
   "finish_time": "00:23:49",
   "age_group": "VTCM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "103",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1755,7 +1755,7 @@
   "finish_time": "00:20:54",
   "age_group": "SNM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "665",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1765,7 +1765,7 @@
   "finish_time": "00:21:05",
   "age_group": "SNM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "641",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1775,7 +1775,7 @@
   "finish_time": "00:21:25",
   "age_group": "VTAM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "7",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1785,7 +1785,7 @@
   "finish_time": "00:21:32",
   "age_group": "VTAM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1795,7 +1795,7 @@
   "finish_time": "00:21:38",
   "age_group": "VTAM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "738",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1805,7 +1805,7 @@
   "finish_time": "00:21:44",
   "age_group": "JV2M-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "8",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1815,7 +1815,7 @@
   "finish_time": "00:21:49",
   "age_group": "VTAM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "650",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1825,7 +1825,7 @@
   "finish_time": "00:22:07",
   "age_group": "VTAM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "5322",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1835,7 +1835,7 @@
   "finish_time": "00:22:17",
   "age_group": "VTBM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "76",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1845,7 +1845,7 @@
   "finish_time": "00:22:21",
   "age_group": "VTBM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "990",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1855,7 +1855,7 @@
   "finish_time": "00:22:22",
   "age_group": "JV1M-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "996",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1865,7 +1865,7 @@
   "finish_time": "00:22:25",
   "age_group": "VTAM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "656",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1875,7 +1875,7 @@
   "finish_time": "00:22:27",
   "age_group": "VTBM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "991",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1885,7 +1885,7 @@
   "finish_time": "00:22:32",
   "age_group": "JV2M-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "986",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1895,7 +1895,7 @@
   "finish_time": "00:22:34",
   "age_group": "JV2M-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2017",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1905,7 +1905,7 @@
   "finish_time": "00:22:40",
   "age_group": "VTBM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "176",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1915,7 +1915,7 @@
   "finish_time": "00:22:48",
   "age_group": "VTAM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "86",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1925,7 +1925,7 @@
   "finish_time": "00:22:53",
   "age_group": "VTBM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "95",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1935,7 +1935,7 @@
   "finish_time": "00:23:03",
   "age_group": "VTAM-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "46",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1945,7 +1945,7 @@
   "finish_time": "00:23:05",
   "age_group": "VTBM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "644",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1955,7 +1955,7 @@
   "finish_time": "00:23:09",
   "age_group": "SNM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "765",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1965,7 +1965,7 @@
   "finish_time": "00:23:13",
   "age_group": "VTBM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "772",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1975,7 +1975,7 @@
   "finish_time": "00:23:16",
   "age_group": "VTAM-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "16",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1985,7 +1985,7 @@
   "finish_time": "00:23:20",
   "age_group": "VTCM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "679",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -1995,7 +1995,7 @@
   "finish_time": "00:23:25",
   "age_group": "VTAM-10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2156",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2005,7 +2005,7 @@
   "finish_time": "00:21:51",
   "age_group": "SNM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2015,7 +2015,7 @@
   "finish_time": "00:21:58",
   "age_group": "SNM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2025,7 +2025,7 @@
   "finish_time": "00:22:13",
   "age_group": "SNM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2567",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2035,7 +2035,7 @@
   "finish_time": "00:22:17",
   "age_group": "VTAM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2045,7 +2045,7 @@
   "finish_time": "00:22:37",
   "age_group": "JV2M-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "5104",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2055,7 +2055,7 @@
   "finish_time": "00:22:42",
   "age_group": "VTAM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2065,7 +2065,7 @@
   "finish_time": "00:22:50",
   "age_group": "VTAM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "5105",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2075,7 +2075,7 @@
   "finish_time": "00:22:54",
   "age_group": "VTBM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4232",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2085,7 +2085,7 @@
   "finish_time": "00:23:04",
   "age_group": "VTAM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4528",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2095,7 +2095,7 @@
   "finish_time": "00:23:14",
   "age_group": "JV2M-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2558",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2105,7 +2105,7 @@
   "finish_time": "00:23:19",
   "age_group": "VTAM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4606",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2115,7 +2115,7 @@
   "finish_time": "00:23:31",
   "age_group": "VTAM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4163",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2125,7 +2125,7 @@
   "finish_time": "00:23:38",
   "age_group": "JV2M-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2602",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2135,7 +2135,7 @@
   "finish_time": "00:23:46",
   "age_group": "SNM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3574",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2145,7 +2145,7 @@
   "finish_time": "00:23:48",
   "age_group": "JV2M-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "28",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2155,7 +2155,7 @@
   "finish_time": "00:23:55",
   "age_group": "VTBM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4231",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2165,7 +2165,7 @@
   "finish_time": "00:23:57",
   "age_group": "JV2M-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "5110",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2175,7 +2175,7 @@
   "finish_time": "00:24:07",
   "age_group": "VTBM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4438",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2185,7 +2185,7 @@
   "finish_time": "00:24:13",
   "age_group": "VTBM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4372",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2195,7 +2195,7 @@
   "finish_time": "00:24:16",
   "age_group": "SNM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4002",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2205,7 +2205,7 @@
   "finish_time": "00:24:19",
   "age_group": "VTAM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "5005",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2215,7 +2215,7 @@
   "finish_time": "00:24:29",
   "age_group": "VTCM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4183",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2225,7 +2225,7 @@
   "finish_time": "00:24:38",
   "age_group": "VTBM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4221",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2235,7 +2235,7 @@
   "finish_time": "00:24:41",
   "age_group": "VTBM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4181",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2245,7 +2245,7 @@
   "finish_time": "00:24:42",
   "age_group": "VTBM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4628",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2255,7 +2255,7 @@
   "finish_time": "00:21:42",
   "age_group": "SNM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "484",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2265,7 +2265,7 @@
   "finish_time": "00:21:42",
   "age_group": "SNM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "11",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2275,7 +2275,7 @@
   "finish_time": "00:22:31",
   "age_group": "JV2M-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4011",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2285,7 +2285,7 @@
   "finish_time": "00:23:05",
   "age_group": "SNM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2295,7 +2295,7 @@
   "finish_time": "00:23:36",
   "age_group": "SNM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "10",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2305,7 +2305,7 @@
   "finish_time": "00:23:58",
   "age_group": "JV2M-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "248",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2315,7 +2315,7 @@
   "finish_time": "00:24:14",
   "age_group": "SNM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "29",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2325,7 +2325,7 @@
   "finish_time": "00:24:21",
   "age_group": "SNM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "922",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2335,7 +2335,7 @@
   "finish_time": "00:24:23",
   "age_group": "JV2M-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "22",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2345,7 +2345,7 @@
   "finish_time": "00:24:31",
   "age_group": "SNM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "13",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2355,7 +2355,7 @@
   "finish_time": "00:24:36",
   "age_group": "VTBM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "12",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2365,7 +2365,7 @@
   "finish_time": "00:24:44",
   "age_group": "VTBM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "15",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2375,7 +2375,7 @@
   "finish_time": "00:24:52",
   "age_group": "SNM-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "35",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2385,7 +2385,7 @@
   "finish_time": "00:24:53",
   "age_group": "JV1M-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "519",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2395,7 +2395,7 @@
   "finish_time": "00:25:07",
   "age_group": "VTAM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "670",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2405,7 +2405,7 @@
   "finish_time": "00:25:08",
   "age_group": "VTBM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "599",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2415,7 +2415,7 @@
   "finish_time": "00:25:09",
   "age_group": "VTBM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "27",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2425,7 +2425,7 @@
   "finish_time": "00:25:12",
   "age_group": "VTBM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "34",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2435,7 +2435,7 @@
   "finish_time": "00:25:42",
   "age_group": "SNM-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "890",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2445,7 +2445,7 @@
   "finish_time": "00:25:43",
   "age_group": "SNM-10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "309",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2455,7 +2455,7 @@
   "finish_time": "00:25:44",
   "age_group": "SNM-11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "301",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2465,7 +2465,7 @@
   "finish_time": "00:25:46",
   "age_group": "SNM-12",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "26",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2475,7 +2475,7 @@
   "finish_time": "00:25:48",
   "age_group": "JV1M-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "51",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2485,7 +2485,7 @@
   "finish_time": "00:25:48",
   "age_group": "VTBM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "320",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2495,7 +2495,7 @@
   "finish_time": "00:25:49",
   "age_group": "SNM-13",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "938",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2505,7 +2505,7 @@
   "finish_time": "00:23:06",
   "age_group": "SNM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2515,7 +2515,7 @@
   "finish_time": "00:23:08",
   "age_group": "SNM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4284",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2525,7 +2525,7 @@
   "finish_time": "00:23:40",
   "age_group": "SNM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "5",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2535,7 +2535,7 @@
   "finish_time": "00:23:58",
   "age_group": "VTAM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3363",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2545,7 +2545,7 @@
   "finish_time": "00:24:14",
   "age_group": "VTAM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "44",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2555,7 +2555,7 @@
   "finish_time": "00:24:52",
   "age_group": "VTBM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "20",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2565,7 +2565,7 @@
   "finish_time": "00:24:59",
   "age_group": "SNM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "733",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2575,7 +2575,7 @@
   "finish_time": "00:24:59",
   "age_group": "JV1M-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "13",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2585,7 +2585,7 @@
   "finish_time": "00:25:00",
   "age_group": "JV1M-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "49",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2595,7 +2595,7 @@
   "finish_time": "00:25:02",
   "age_group": "JV1M-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "11",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2605,7 +2605,7 @@
   "finish_time": "00:25:05",
   "age_group": "SNM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "81",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2615,7 +2615,7 @@
   "finish_time": "00:25:15",
   "age_group": "VTAM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "105",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2625,7 +2625,7 @@
   "finish_time": "00:25:22",
   "age_group": "VTAM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "327",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2635,7 +2635,7 @@
   "finish_time": "00:25:24",
   "age_group": "JV2M-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "12",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2645,7 +2645,7 @@
   "finish_time": "00:25:34",
   "age_group": "VTBM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "98",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2655,7 +2655,7 @@
   "finish_time": "00:25:37",
   "age_group": "VTBM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3369",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2665,7 +2665,7 @@
   "finish_time": "00:25:38",
   "age_group": "VTBM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "59",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2675,7 +2675,7 @@
   "finish_time": "00:25:53",
   "age_group": "VTAM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "56",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2685,7 +2685,7 @@
   "finish_time": "00:25:54",
   "age_group": "JV1M-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "63",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2695,7 +2695,7 @@
   "finish_time": "00:26:00",
   "age_group": "VTAM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4745",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2705,7 +2705,7 @@
   "finish_time": "00:26:05",
   "age_group": "SNM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4534",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2715,7 +2715,7 @@
   "finish_time": "00:26:06",
   "age_group": "JV2M-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "298",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2725,7 +2725,7 @@
   "finish_time": "00:26:33",
   "age_group": "VTAM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3906",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2735,7 +2735,7 @@
   "finish_time": "00:26:33",
   "age_group": "VTBM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "61",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2745,7 +2745,7 @@
   "finish_time": "00:26:41",
   "age_group": "SNM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "954",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2755,7 +2755,7 @@
   "finish_time": "00:21:00",
   "age_group": "VTAM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "20",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2765,7 +2765,7 @@
   "finish_time": "00:21:47",
   "age_group": "SNM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3468",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2775,7 +2775,7 @@
   "finish_time": "00:21:53",
   "age_group": "SNM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3830",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2785,7 +2785,7 @@
   "finish_time": "00:22:35",
   "age_group": "VTAM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2795,7 +2795,7 @@
   "finish_time": "00:22:52",
   "age_group": "SNM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "55",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2805,7 +2805,7 @@
   "finish_time": "00:22:55",
   "age_group": "JV2M-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "9",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2815,7 +2815,7 @@
   "finish_time": "00:22:55",
   "age_group": "VTAM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "177",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2825,7 +2825,7 @@
   "finish_time": "00:22:56",
   "age_group": "JV2M-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "13",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2835,7 +2835,7 @@
   "finish_time": "00:23:14",
   "age_group": "SNM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3981",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2845,7 +2845,7 @@
   "finish_time": "00:23:15",
   "age_group": "SNM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "122",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2855,7 +2855,7 @@
   "finish_time": "00:23:21",
   "age_group": "SNM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "406",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2865,7 +2865,7 @@
   "finish_time": "00:23:23",
   "age_group": "VTAM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4014",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2875,7 +2875,7 @@
   "finish_time": "00:23:29",
   "age_group": "VTAM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2885,7 +2885,7 @@
   "finish_time": "00:23:47",
   "age_group": "JV2M-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "16",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2895,7 +2895,7 @@
   "finish_time": "00:23:50",
   "age_group": "VTBM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "281",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2905,7 +2905,7 @@
   "finish_time": "00:24:02",
   "age_group": "SNM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3893",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2915,7 +2915,7 @@
   "finish_time": "00:24:06",
   "age_group": "SNM-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "194",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2925,7 +2925,7 @@
   "finish_time": "00:24:10",
   "age_group": "VTBM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4595",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2935,7 +2935,7 @@
   "finish_time": "00:24:10",
   "age_group": "VTBM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "29",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2945,7 +2945,7 @@
   "finish_time": "00:24:15",
   "age_group": "SNM-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3482",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2955,7 +2955,7 @@
   "finish_time": "00:24:19",
   "age_group": "VTAM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "231",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2965,7 +2965,7 @@
   "finish_time": "00:24:22",
   "age_group": "SNM-10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "671",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2975,7 +2975,7 @@
   "finish_time": "00:24:28",
   "age_group": "JV2M-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "47",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2985,7 +2985,7 @@
   "finish_time": "00:24:28",
   "age_group": "SNM-11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "121",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -2995,7 +2995,7 @@
   "finish_time": "00:24:36",
   "age_group": "SNM-12",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "283",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3005,7 +3005,7 @@
   "finish_time": "00:22:24",
   "age_group": "VTAM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3015,7 +3015,7 @@
   "finish_time": "00:23:41",
   "age_group": "JV2M-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4500",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3025,7 +3025,7 @@
   "finish_time": "00:23:44",
   "age_group": "SNM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "26",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3035,7 +3035,7 @@
   "finish_time": "00:23:50",
   "age_group": "VTAM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "43",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3045,7 +3045,7 @@
   "finish_time": "00:23:53",
   "age_group": "SNM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3055,7 +3055,7 @@
   "finish_time": "00:23:56",
   "age_group": "VTAM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4856",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3065,7 +3065,7 @@
   "finish_time": "00:24:06",
   "age_group": "VTAM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "5",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3075,7 +3075,7 @@
   "finish_time": "00:24:17",
   "age_group": "JV2M-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4484",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3085,7 +3085,7 @@
   "finish_time": "00:24:50",
   "age_group": "SNM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "140",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3095,7 +3095,7 @@
   "finish_time": "00:24:54",
   "age_group": "SNM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "286",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3105,7 +3105,7 @@
   "finish_time": "00:24:59",
   "age_group": "JV2M-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3115,7 +3115,7 @@
   "finish_time": "00:25:02",
   "age_group": "SNM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "234",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3125,7 +3125,7 @@
   "finish_time": "00:25:07",
   "age_group": "VTBM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "168",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3135,7 +3135,7 @@
   "finish_time": "00:25:27",
   "age_group": "VTAM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "228",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3145,7 +3145,7 @@
   "finish_time": "00:25:31",
   "age_group": "JV2M-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "16",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3155,7 +3155,7 @@
   "finish_time": "00:25:33",
   "age_group": "SNM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "31",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3165,7 +3165,7 @@
   "finish_time": "00:25:36",
   "age_group": "VTAM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "118",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3175,7 +3175,7 @@
   "finish_time": "00:25:40",
   "age_group": "SNM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "44",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3185,7 +3185,7 @@
   "finish_time": "00:25:42",
   "age_group": "SNM-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "71",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3195,7 +3195,7 @@
   "finish_time": "00:25:46",
   "age_group": "SNM-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3441",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3205,7 +3205,7 @@
   "finish_time": "00:25:47",
   "age_group": "JV2M-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "15",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3215,7 +3215,7 @@
   "finish_time": "00:25:47",
   "age_group": "JV1M-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "82",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3225,7 +3225,7 @@
   "finish_time": "00:25:48",
   "age_group": "SNF-1",
   "gender": "Femenino",
-  "dorsal": "",
+  "dorsal": "523",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3235,7 +3235,7 @@
   "finish_time": "00:25:48",
   "age_group": "SNM-10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "95",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3245,7 +3245,7 @@
   "finish_time": "00:25:50",
   "age_group": "VTAM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "573",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3255,7 +3255,7 @@
   "finish_time": "00:23:07",
   "age_group": "SNM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "139",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3265,7 +3265,7 @@
   "finish_time": "00:23:17",
   "age_group": "JV2M-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3275,7 +3275,7 @@
   "finish_time": "00:23:18",
   "age_group": "SNM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "94",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3285,7 +3285,7 @@
   "finish_time": "00:23:22",
   "age_group": "SNM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "136",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3295,7 +3295,7 @@
   "finish_time": "00:23:32",
   "age_group": "SNM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3305,7 +3305,7 @@
   "finish_time": "00:23:57",
   "age_group": "VTAM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3315,7 +3315,7 @@
   "finish_time": "00:23:58",
   "age_group": "JV2M-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "19",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3325,7 +3325,7 @@
   "finish_time": "00:24:00",
   "age_group": "SNM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "5",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3335,7 +3335,7 @@
   "finish_time": "00:24:02",
   "age_group": "SNM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "76",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3345,7 +3345,7 @@
   "finish_time": "00:24:03",
   "age_group": "JV2M-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3355,7 +3355,7 @@
   "finish_time": "00:24:12",
   "age_group": "JV2M-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "30",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3365,7 +3365,7 @@
   "finish_time": "00:24:21",
   "age_group": "SNM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "354",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3375,7 +3375,7 @@
   "finish_time": "00:24:36",
   "age_group": "SNM-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "5354",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3385,7 +3385,7 @@
   "finish_time": "00:24:36",
   "age_group": "SNM-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "5362",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3395,7 +3395,7 @@
   "finish_time": "00:24:41",
   "age_group": "SNM-10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "5351",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3405,7 +3405,7 @@
   "finish_time": "00:24:49",
   "age_group": "VTAM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "82",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3415,7 +3415,7 @@
   "finish_time": "00:24:55",
   "age_group": "SNM-11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "16",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3425,7 +3425,7 @@
   "finish_time": "00:24:58",
   "age_group": "VTAM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "219",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3435,7 +3435,7 @@
   "finish_time": "00:25:02",
   "age_group": "SNM-12",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "321",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3445,7 +3445,7 @@
   "finish_time": "00:25:03",
   "age_group": "SNM-13",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "6030",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3455,7 +3455,7 @@
   "finish_time": "00:25:09",
   "age_group": "SNM-14",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "58",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3465,7 +3465,7 @@
   "finish_time": "00:25:17",
   "age_group": "JV2M-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "20",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3475,7 +3475,7 @@
   "finish_time": "00:25:37",
   "age_group": "JV2M-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "5344",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3485,7 +3485,7 @@
   "finish_time": "00:25:38",
   "age_group": "VTAM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "77",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3495,7 +3495,7 @@
   "finish_time": "00:25:38",
   "age_group": "VTBM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "52",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3505,7 +3505,7 @@
   "finish_time": "00:28:26",
   "age_group": "17",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3515,7 +3515,7 @@
   "finish_time": "00:28:37",
   "age_group": "18",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3525,7 +3525,7 @@
   "finish_time": "00:28:51",
   "age_group": "19",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3535,7 +3535,7 @@
   "finish_time": "00:28:54",
   "age_group": "20",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3545,7 +3545,7 @@
   "finish_time": "00:28:55",
   "age_group": "8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3555,7 +3555,7 @@
   "finish_time": "00:28:55",
   "age_group": "21",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3565,7 +3565,7 @@
   "finish_time": "00:29:00",
   "age_group": "22",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3575,7 +3575,7 @@
   "finish_time": "00:29:01",
   "age_group": "3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3585,7 +3585,7 @@
   "finish_time": "00:29:02",
   "age_group": "23",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3595,7 +3595,7 @@
   "finish_time": "00:29:06",
   "age_group": "9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3605,7 +3605,7 @@
   "finish_time": "00:29:17",
   "age_group": "24",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3615,7 +3615,7 @@
   "finish_time": "00:29:18",
   "age_group": "25",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3625,7 +3625,7 @@
   "finish_time": "00:29:23",
   "age_group": "4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3635,7 +3635,7 @@
   "finish_time": "00:29:24",
   "age_group": "1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3645,7 +3645,7 @@
   "finish_time": "00:29:24",
   "age_group": "10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3655,7 +3655,7 @@
   "finish_time": "00:29:26",
   "age_group": "26",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3665,7 +3665,7 @@
   "finish_time": "00:29:28",
   "age_group": "5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3675,7 +3675,7 @@
   "finish_time": "00:29:35",
   "age_group": "27",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3685,7 +3685,7 @@
   "finish_time": "00:29:37",
   "age_group": "6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3695,7 +3695,7 @@
   "finish_time": "00:29:38",
   "age_group": "28",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3705,7 +3705,7 @@
   "finish_time": "00:29:41",
   "age_group": "29",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3715,7 +3715,7 @@
   "finish_time": "00:29:43",
   "age_group": "30",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3725,7 +3725,7 @@
   "finish_time": "00:29:44",
   "age_group": "31",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3735,7 +3735,7 @@
   "finish_time": "00:29:46",
   "age_group": "11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3745,7 +3745,7 @@
   "finish_time": "00:29:49",
   "age_group": "32",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3755,7 +3755,7 @@
   "finish_time": "00:27:29",
   "age_group": "3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3765,7 +3765,7 @@
   "finish_time": "00:27:33",
   "age_group": "17",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3775,7 +3775,7 @@
   "finish_time": "00:27:39",
   "age_group": "1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3785,7 +3785,7 @@
   "finish_time": "00:27:53",
   "age_group": "6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3795,7 +3795,7 @@
   "finish_time": "00:28:00",
   "age_group": "18",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3805,7 +3805,7 @@
   "finish_time": "00:28:07",
   "age_group": "19",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3815,7 +3815,7 @@
   "finish_time": "00:28:11",
   "age_group": "7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3825,7 +3825,7 @@
   "finish_time": "00:28:19",
   "age_group": "20",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3835,7 +3835,7 @@
   "finish_time": "00:28:21",
   "age_group": "4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3845,7 +3845,7 @@
   "finish_time": "00:28:24",
   "age_group": "21",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3855,7 +3855,7 @@
   "finish_time": "00:28:27",
   "age_group": "22",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3865,7 +3865,7 @@
   "finish_time": "00:28:29",
   "age_group": "23",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3875,7 +3875,7 @@
   "finish_time": "00:28:39",
   "age_group": "8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3885,7 +3885,7 @@
   "finish_time": "00:28:39",
   "age_group": "24",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3895,7 +3895,7 @@
   "finish_time": "00:28:40",
   "age_group": "25",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3905,7 +3905,7 @@
   "finish_time": "00:28:43",
   "age_group": "2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3915,7 +3915,7 @@
   "finish_time": "00:28:46",
   "age_group": "26",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3925,7 +3925,7 @@
   "finish_time": "00:28:49",
   "age_group": "9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3935,7 +3935,7 @@
   "finish_time": "00:28:50",
   "age_group": "27",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3945,7 +3945,7 @@
   "finish_time": "00:28:51",
   "age_group": "11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3955,7 +3955,7 @@
   "finish_time": "00:28:51",
   "age_group": "10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3965,7 +3965,7 @@
   "finish_time": "00:28:57",
   "age_group": "28",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3975,7 +3975,7 @@
   "finish_time": "00:28:58",
   "age_group": "12",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3985,7 +3985,7 @@
   "finish_time": "00:28:59",
   "age_group": "1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -3995,7 +3995,7 @@
   "finish_time": "00:29:05",
   "age_group": "29",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4005,7 +4005,7 @@
   "finish_time": "00:27:43",
   "age_group": "18",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4015,7 +4015,7 @@
   "finish_time": "00:27:45",
   "age_group": "7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4025,7 +4025,7 @@
   "finish_time": "00:27:56",
   "age_group": "19",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4035,7 +4035,7 @@
   "finish_time": "00:28:09",
   "age_group": "3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4045,7 +4045,7 @@
   "finish_time": "00:28:09",
   "age_group": "20",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4055,7 +4055,7 @@
   "finish_time": "00:28:14",
   "age_group": "4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4065,7 +4065,7 @@
   "finish_time": "00:28:19",
   "age_group": "21",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4075,7 +4075,7 @@
   "finish_time": "00:28:24",
   "age_group": "22",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4085,7 +4085,7 @@
   "finish_time": "00:28:25",
   "age_group": "5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4095,7 +4095,7 @@
   "finish_time": "00:28:27",
   "age_group": "23",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4105,7 +4105,7 @@
   "finish_time": "00:28:30",
   "age_group": "24",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4115,7 +4115,7 @@
   "finish_time": "00:28:32",
   "age_group": "1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4125,7 +4125,7 @@
   "finish_time": "00:28:49",
   "age_group": "1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4135,7 +4135,7 @@
   "finish_time": "00:28:50",
   "age_group": "8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4145,7 +4145,7 @@
   "finish_time": "00:28:55",
   "age_group": "6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4155,7 +4155,7 @@
   "finish_time": "00:28:55",
   "age_group": "25",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4165,7 +4165,7 @@
   "finish_time": "00:28:55",
   "age_group": "9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4175,7 +4175,7 @@
   "finish_time": "00:29:00",
   "age_group": "26",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4185,7 +4185,7 @@
   "finish_time": "00:29:02",
   "age_group": "7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4195,7 +4195,7 @@
   "finish_time": "00:29:05",
   "age_group": "27",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4205,7 +4205,7 @@
   "finish_time": "00:29:11",
   "age_group": "28",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4215,7 +4215,7 @@
   "finish_time": "00:29:12",
   "age_group": "30",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4225,7 +4225,7 @@
   "finish_time": "00:29:12",
   "age_group": "29",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4235,7 +4235,7 @@
   "finish_time": "00:29:17",
   "age_group": "10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4245,7 +4245,7 @@
   "finish_time": "00:29:21",
   "age_group": "11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "0",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4255,7 +4255,7 @@
   "finish_time": "00:23:49",
   "age_group": "VETERANOS B MASC-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "61",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4265,7 +4265,7 @@
   "finish_time": "00:23:50",
   "age_group": "VETERANOS B MASC-10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "40",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4275,7 +4275,7 @@
   "finish_time": "00:23:54",
   "age_group": "VETERANOS A MASC-11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "64",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4285,7 +4285,7 @@
   "finish_time": "00:24:06",
   "age_group": "VETERANOS A MASC-12",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "93",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4295,7 +4295,7 @@
   "finish_time": "00:24:08",
   "age_group": "VETERANOS A MASC-13",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1269",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4305,7 +4305,7 @@
   "finish_time": "00:24:09",
   "age_group": "VETERANOS A MASC-14",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "111",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4315,7 +4315,7 @@
   "finish_time": "00:24:10",
   "age_group": "SENIOR MASCULINO-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2304",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4325,7 +4325,7 @@
   "finish_time": "00:24:12",
   "age_group": "SENIOR MASCULINO-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "118",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4335,7 +4335,7 @@
   "finish_time": "00:24:12",
   "age_group": "VETERANOS A MASC-15",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1067",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4345,7 +4345,7 @@
   "finish_time": "00:24:14",
   "age_group": "VETERANOS A MASC-16",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "95",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4355,7 +4355,7 @@
   "finish_time": "00:24:18",
   "age_group": "VETERANOS C MASC-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "30",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4365,7 +4365,7 @@
   "finish_time": "00:24:18",
   "age_group": "SENIOR MASCULINO-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2530",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4375,7 +4375,7 @@
   "finish_time": "00:24:19",
   "age_group": "VETERANOS B MASC-11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "90",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4385,7 +4385,7 @@
   "finish_time": "00:24:22",
   "age_group": "SENIOR MASCULINO-10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1021",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4395,7 +4395,7 @@
   "finish_time": "00:24:26",
   "age_group": "SENIOR MASCULINO-11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2411",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4405,7 +4405,7 @@
   "finish_time": "00:24:28",
   "age_group": "SENIOR MASCULINO-12",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1011",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4415,7 +4415,7 @@
   "finish_time": "00:24:29",
   "age_group": "VETERANOS A MASC-17",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1020",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4425,7 +4425,7 @@
   "finish_time": "00:24:30",
   "age_group": "VETERANOS A MASC-18",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "67",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4435,7 +4435,7 @@
   "finish_time": "00:24:31",
   "age_group": "VETERANOS A MASC-19",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1016",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4445,7 +4445,7 @@
   "finish_time": "00:24:31",
   "age_group": "VETERANOS B MASC-12",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "434",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4455,7 +4455,7 @@
   "finish_time": "00:24:35",
   "age_group": "VETERANOS B MASC-13",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "47",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4465,7 +4465,7 @@
   "finish_time": "00:24:37",
   "age_group": "VETERANOS B MASC-14",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "275",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4475,7 +4475,7 @@
   "finish_time": "00:24:39",
   "age_group": "VETERANOS A MASC-20",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "31",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4485,7 +4485,7 @@
   "finish_time": "00:24:40",
   "age_group": "SENIOR MASCULINO-13",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1007",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4495,7 +4495,7 @@
   "finish_time": "00:24:46",
   "age_group": "SENIOR MASCULINO-14",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "89",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4505,7 +4505,7 @@
   "finish_time": "00:27:06",
   "age_group": "VTBM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "49",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4515,7 +4515,7 @@
   "finish_time": "00:27:10",
   "age_group": "VTBM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "132",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4525,7 +4525,7 @@
   "finish_time": "00:27:15",
   "age_group": "VTBM-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "95",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4535,7 +4535,7 @@
   "finish_time": "00:27:18",
   "age_group": "VTAM-14",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "47",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4545,7 +4545,7 @@
   "finish_time": "00:27:21",
   "age_group": "VTAM-15",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "107",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4555,7 +4555,7 @@
   "finish_time": "00:27:22",
   "age_group": "VTBM-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "51",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4565,7 +4565,7 @@
   "finish_time": "00:27:26",
   "age_group": "VTAM-16",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1118",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4575,7 +4575,7 @@
   "finish_time": "00:27:28",
   "age_group": "VTAM-17",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1267",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4585,7 +4585,7 @@
   "finish_time": "00:27:31",
   "age_group": "VTBM-10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "63",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4595,7 +4595,7 @@
   "finish_time": "00:27:32",
   "age_group": "SNM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1132",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4605,7 +4605,7 @@
   "finish_time": "00:27:36",
   "age_group": "VTAM-18",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "329",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4615,7 +4615,7 @@
   "finish_time": "00:27:39",
   "age_group": "VTAM-19",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "138",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4625,7 +4625,7 @@
   "finish_time": "00:27:41",
   "age_group": "VTAM-20",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1359",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4635,7 +4635,7 @@
   "finish_time": "00:27:45",
   "age_group": "SNM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1133",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4645,7 +4645,7 @@
   "finish_time": "00:27:49",
   "age_group": "SNM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "15",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4655,7 +4655,7 @@
   "finish_time": "00:27:50",
   "age_group": "VTAM-21",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "68",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4665,7 +4665,7 @@
   "finish_time": "00:27:59",
   "age_group": "VTAM-22",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3105",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4675,7 +4675,7 @@
   "finish_time": "00:28:02",
   "age_group": "VTAM-23",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3120",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4685,7 +4685,7 @@
   "finish_time": "00:28:06",
   "age_group": "JVM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1137",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4695,7 +4695,7 @@
   "finish_time": "00:28:07",
   "age_group": "VTAM-24",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "130",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4705,7 +4705,7 @@
   "finish_time": "00:28:07",
   "age_group": "VTBM-11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "486",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4715,7 +4715,7 @@
   "finish_time": "00:28:08",
   "age_group": "VTAM-25",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1371",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4725,7 +4725,7 @@
   "finish_time": "00:28:08",
   "age_group": "VTAM-26",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1136",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4735,7 +4735,7 @@
   "finish_time": "00:28:11",
   "age_group": "VTBM-12",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "242",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4745,7 +4745,7 @@
   "finish_time": "00:28:12",
   "age_group": "VTAM-27",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "222",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4755,7 +4755,7 @@
   "finish_time": "00:21:13",
   "age_group": "JVM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1102",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4765,7 +4765,7 @@
   "finish_time": "00:21:16",
   "age_group": "VTAM-12",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "98",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4775,7 +4775,7 @@
   "finish_time": "00:21:24",
   "age_group": "VTAM-13",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "20",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4785,7 +4785,7 @@
   "finish_time": "00:21:25",
   "age_group": "VTAM-14",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "56",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4795,7 +4795,7 @@
   "finish_time": "00:21:35",
   "age_group": "VTAM-15",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4462",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4805,7 +4805,7 @@
   "finish_time": "00:21:36",
   "age_group": "VTBM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "46",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4815,7 +4815,7 @@
   "finish_time": "00:21:38",
   "age_group": "VTAM-16",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "97",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4825,7 +4825,7 @@
   "finish_time": "00:21:40",
   "age_group": "VTAM-17",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "146",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4835,7 +4835,7 @@
   "finish_time": "00:21:42",
   "age_group": "VTBM-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "107",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4845,7 +4845,7 @@
   "finish_time": "00:21:44",
   "age_group": "VTAM-18",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "134",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4855,7 +4855,7 @@
   "finish_time": "00:21:48",
   "age_group": "VTAM-19",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "9",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4865,7 +4865,7 @@
   "finish_time": "00:21:48",
   "age_group": "VTCM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "460",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4875,7 +4875,7 @@
   "finish_time": "00:21:52",
   "age_group": "VTBM-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "55",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4885,7 +4885,7 @@
   "finish_time": "00:21:55",
   "age_group": "VTBM-10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "67",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4895,7 +4895,7 @@
   "finish_time": "00:22:01",
   "age_group": "SNM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2018",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4905,7 +4905,7 @@
   "finish_time": "00:22:07",
   "age_group": "JVM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "229",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4915,7 +4915,7 @@
   "finish_time": "00:22:09",
   "age_group": "VTBM-11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "115",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4925,7 +4925,7 @@
   "finish_time": "00:22:10",
   "age_group": "VTAM-20",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2038",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4935,7 +4935,7 @@
   "finish_time": "00:22:12",
   "age_group": "VTCM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "295",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4945,7 +4945,7 @@
   "finish_time": "00:22:14",
   "age_group": "VTBM-12",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "19",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4955,7 +4955,7 @@
   "finish_time": "00:22:14",
   "age_group": "VTAM-21",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3734",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4965,7 +4965,7 @@
   "finish_time": "00:22:14",
   "age_group": "VTAM-22",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "922",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4975,7 +4975,7 @@
   "finish_time": "00:22:15",
   "age_group": "VTAM-23",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "1017",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4985,7 +4985,7 @@
   "finish_time": "00:22:15",
   "age_group": "VTAM-24",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2009",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -4995,7 +4995,7 @@
   "finish_time": "00:22:18",
   "age_group": "VTAM-25",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "238",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5005,7 +5005,7 @@
   "finish_time": "00:23:50",
   "age_group": "VTAF-1",
   "gender": "Femenino",
-  "dorsal": "",
+  "dorsal": "2347",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5015,7 +5015,7 @@
   "finish_time": "00:23:56",
   "age_group": "VTBM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "40",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5025,7 +5025,7 @@
   "finish_time": "00:24:01",
   "age_group": "VTAM-11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "27",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5035,7 +5035,7 @@
   "finish_time": "00:24:08",
   "age_group": "VTBM-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "159",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5045,7 +5045,7 @@
   "finish_time": "00:24:09",
   "age_group": "JV1M-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2155",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5055,7 +5055,7 @@
   "finish_time": "00:24:15",
   "age_group": "VTCM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "271",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5065,7 +5065,7 @@
   "finish_time": "00:24:24",
   "age_group": "VTAM-12",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "161",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5075,7 +5075,7 @@
   "finish_time": "00:24:29",
   "age_group": "SNM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2043",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5085,7 +5085,7 @@
   "finish_time": "00:24:29",
   "age_group": "VTAM-13",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "352",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5095,7 +5095,7 @@
   "finish_time": "00:24:32",
   "age_group": "SNM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "122",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5105,7 +5105,7 @@
   "finish_time": "00:24:34",
   "age_group": "VTBM-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2025",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5115,7 +5115,7 @@
   "finish_time": "00:24:35",
   "age_group": "VTCM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "57",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5125,7 +5125,7 @@
   "finish_time": "00:24:42",
   "age_group": "VTAM-14",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "15",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5135,7 +5135,7 @@
   "finish_time": "00:24:44",
   "age_group": "SNM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "168",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5145,7 +5145,7 @@
   "finish_time": "00:24:46",
   "age_group": "VTAM-15",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "275",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5155,7 +5155,7 @@
   "finish_time": "00:24:46",
   "age_group": "SNM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2225",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5165,7 +5165,7 @@
   "finish_time": "00:24:47",
   "age_group": "SNM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "571",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5175,7 +5175,7 @@
   "finish_time": "00:24:52",
   "age_group": "VTBM-10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "962",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5185,7 +5185,7 @@
   "finish_time": "00:24:52",
   "age_group": "VTAM-16",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "930",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5195,7 +5195,7 @@
   "finish_time": "00:24:53",
   "age_group": "VTAM-17",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "13",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5205,7 +5205,7 @@
   "finish_time": "00:24:53",
   "age_group": "VTAM-18",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2216",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5215,7 +5215,7 @@
   "finish_time": "00:24:57",
   "age_group": "VTAM-19",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "80",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5225,7 +5225,7 @@
   "finish_time": "00:24:58",
   "age_group": "VTAM-20",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "276",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5235,7 +5235,7 @@
   "finish_time": "00:24:58",
   "age_group": "VTAM-21",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2218",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5245,7 +5245,7 @@
   "finish_time": "00:25:01",
   "age_group": "VTBM-11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "148",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5255,7 +5255,7 @@
   "finish_time": "00:23:26",
   "age_group": "VTBM-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "294",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5265,7 +5265,7 @@
   "finish_time": "00:23:28",
   "age_group": "VTBM-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "35",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5275,7 +5275,7 @@
   "finish_time": "00:23:30",
   "age_group": "VTBM-10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "638",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5285,7 +5285,7 @@
   "finish_time": "00:23:30",
   "age_group": "VTAF-1",
   "gender": "Femenino",
-  "dorsal": "",
+  "dorsal": "1",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5295,7 +5295,7 @@
   "finish_time": "00:23:32",
   "age_group": "VTCM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "41",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5305,7 +5305,7 @@
   "finish_time": "00:23:33",
   "age_group": "VTAM-11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "43",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5315,7 +5315,7 @@
   "finish_time": "00:23:36",
   "age_group": "VTCM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "31",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5325,7 +5325,7 @@
   "finish_time": "00:23:41",
   "age_group": "VTAM-12",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "180",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5335,7 +5335,7 @@
   "finish_time": "00:23:46",
   "age_group": "VTBM-11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "50",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5345,7 +5345,7 @@
   "finish_time": "00:23:53",
   "age_group": "VTAM-13",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2042",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5355,7 +5355,7 @@
   "finish_time": "00:23:58",
   "age_group": "VTAM-14",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "657",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5365,7 +5365,7 @@
   "finish_time": "00:24:02",
   "age_group": "JV2M-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2007",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5375,7 +5375,7 @@
   "finish_time": "00:24:04",
   "age_group": "SNM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2055",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5385,7 +5385,7 @@
   "finish_time": "00:24:05",
   "age_group": "VTBM-12",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "740",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5395,7 +5395,7 @@
   "finish_time": "00:24:07",
   "age_group": "VTAM-15",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "682",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5405,7 +5405,7 @@
   "finish_time": "00:24:09",
   "age_group": "VTBM-13",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4859",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5415,7 +5415,7 @@
   "finish_time": "00:24:11",
   "age_group": "VTBM-14",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "681",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5425,7 +5425,7 @@
   "finish_time": "00:24:11",
   "age_group": "VTAM-16",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "81",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5435,7 +5435,7 @@
   "finish_time": "00:24:16",
   "age_group": "VTAM-17",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "12",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5445,7 +5445,7 @@
   "finish_time": "00:24:20",
   "age_group": "VTAM-18",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2041",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5455,7 +5455,7 @@
   "finish_time": "00:24:21",
   "age_group": "JV2M-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2044",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5465,7 +5465,7 @@
   "finish_time": "00:24:23",
   "age_group": "SNM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "2035",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5475,7 +5475,7 @@
   "finish_time": "00:24:26",
   "age_group": "VTBM-15",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "84",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5485,7 +5485,7 @@
   "finish_time": "00:24:28",
   "age_group": "VTAM-19",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "10",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5495,7 +5495,7 @@
   "finish_time": "00:24:30",
   "age_group": "SNM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "716",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5505,7 +5505,7 @@
   "finish_time": "00:24:44",
   "age_group": "SNM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "54",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5515,7 +5515,7 @@
   "finish_time": "00:24:49",
   "age_group": "VTAM-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4514",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5525,7 +5525,7 @@
   "finish_time": "00:24:50",
   "age_group": "VTAM-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4604",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5535,7 +5535,7 @@
   "finish_time": "00:24:51",
   "age_group": "VTAM-10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4172",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5545,7 +5545,7 @@
   "finish_time": "00:24:53",
   "age_group": "VTBM-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4113",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5555,7 +5555,7 @@
   "finish_time": "00:24:54",
   "age_group": "VTCM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4222",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5565,7 +5565,7 @@
   "finish_time": "00:24:55",
   "age_group": "VTBM-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4151",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5575,7 +5575,7 @@
   "finish_time": "00:24:57",
   "age_group": "VTBM-10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4244",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5585,7 +5585,7 @@
   "finish_time": "00:24:57",
   "age_group": "SNM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4624",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5595,7 +5595,7 @@
   "finish_time": "00:24:59",
   "age_group": "VTBM-11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4223",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5605,7 +5605,7 @@
   "finish_time": "00:25:04",
   "age_group": "VTAM-11",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4102",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5615,7 +5615,7 @@
   "finish_time": "00:25:04",
   "age_group": "VTAM-12",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4130",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5625,7 +5625,7 @@
   "finish_time": "00:25:07",
   "age_group": "VTAM-13",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4199",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5635,7 +5635,7 @@
   "finish_time": "00:25:10",
   "age_group": "VTBM-12",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4240",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5645,7 +5645,7 @@
   "finish_time": "00:25:12",
   "age_group": "JV2M-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "58",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5655,7 +5655,7 @@
   "finish_time": "00:25:17",
   "age_group": "VTBF-1",
   "gender": "Femenino",
-  "dorsal": "",
+  "dorsal": "5",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5665,7 +5665,7 @@
   "finish_time": "00:25:29",
   "age_group": "SNM-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4517",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5675,7 +5675,7 @@
   "finish_time": "00:25:30",
   "age_group": "VTCM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4148",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5685,7 +5685,7 @@
   "finish_time": "00:25:31",
   "age_group": "VTBM-13",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4245",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5695,7 +5695,7 @@
   "finish_time": "00:25:31",
   "age_group": "VTAM-14",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "196",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5705,7 +5705,7 @@
   "finish_time": "00:25:31",
   "age_group": "VTAM-15",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3120",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5715,7 +5715,7 @@
   "finish_time": "00:25:39",
   "age_group": "VTBM-14",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4123",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5725,7 +5725,7 @@
   "finish_time": "00:25:42",
   "age_group": "VTCM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4138",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5735,7 +5735,7 @@
   "finish_time": "00:25:44",
   "age_group": "VTAM-16",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4111",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5745,7 +5745,7 @@
   "finish_time": "00:25:48",
   "age_group": "SNM-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3363",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5755,7 +5755,7 @@
   "finish_time": "00:26:00",
   "age_group": "VTAM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "936",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5765,7 +5765,7 @@
   "finish_time": "00:26:07",
   "age_group": "SNM-14",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "880",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5775,7 +5775,7 @@
   "finish_time": "00:26:07",
   "age_group": "VTAM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "73",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5785,7 +5785,7 @@
   "finish_time": "00:26:10",
   "age_group": "VTAM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "52",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5795,7 +5795,7 @@
   "finish_time": "00:26:11",
   "age_group": "VTBM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "20",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5805,7 +5805,7 @@
   "finish_time": "00:26:14",
   "age_group": "JV1M-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "112",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5815,7 +5815,7 @@
   "finish_time": "00:26:16",
   "age_group": "VTAM-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "47",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5825,7 +5825,7 @@
   "finish_time": "00:26:23",
   "age_group": "VTAM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "931",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5835,7 +5835,7 @@
   "finish_time": "00:26:23",
   "age_group": "JV1M-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "75",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5845,7 +5845,7 @@
   "finish_time": "00:26:23",
   "age_group": "VTBM-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "38",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5855,7 +5855,7 @@
   "finish_time": "00:26:28",
   "age_group": "VTBF-1",
   "gender": "Femenino",
-  "dorsal": "",
+  "dorsal": "3",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5865,7 +5865,7 @@
   "finish_time": "00:26:28",
   "age_group": "VTCM-1",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "21",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5875,7 +5875,7 @@
   "finish_time": "00:26:29",
   "age_group": "VTCM-2",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "16",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5885,7 +5885,7 @@
   "finish_time": "00:26:36",
   "age_group": "JV2M-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "932",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5895,7 +5895,7 @@
   "finish_time": "00:26:37",
   "age_group": "VTAM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "871",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5905,7 +5905,7 @@
   "finish_time": "00:26:38",
   "age_group": "VTCM-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "49",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5915,7 +5915,7 @@
   "finish_time": "00:26:40",
   "age_group": "JV2M-5",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "501",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5925,7 +5925,7 @@
   "finish_time": "00:26:49",
   "age_group": "VTCM-4",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "154",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5935,7 +5935,7 @@
   "finish_time": "00:26:52",
   "age_group": "VTAM-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "945",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5945,7 +5945,7 @@
   "finish_time": "00:26:55",
   "age_group": "VTBM-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "33",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5955,7 +5955,7 @@
   "finish_time": "00:26:56",
   "age_group": "VTAM-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "324",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5965,7 +5965,7 @@
   "finish_time": "00:26:58",
   "age_group": "VTAM-10",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "31",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5975,7 +5975,7 @@
   "finish_time": "00:27:00",
   "age_group": "SNM-15",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "66",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5985,7 +5985,7 @@
   "finish_time": "00:27:02",
   "age_group": "SNM-16",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "923",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -5995,7 +5995,7 @@
   "finish_time": "00:27:04",
   "age_group": "JV2M-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "44",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -6005,7 +6005,7 @@
   "finish_time": "00:26:45",
   "age_group": "VTAM-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "186",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -6015,7 +6015,7 @@
   "finish_time": "00:26:46",
   "age_group": "VTAM-9",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "29",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -6025,7 +6025,7 @@
   "finish_time": "00:26:50",
   "age_group": "SNM-8",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "3584",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -6035,7 +6035,7 @@
   "finish_time": "00:26:52",
   "age_group": "VTBM-6",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "96",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -6045,7 +6045,7 @@
   "finish_time": "00:26:53",
   "age_group": "JV2M-3",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "601",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -6055,7 +6055,7 @@
   "finish_time": "00:26:54",
   "age_group": "VTBM-7",
   "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4190",
   "race_distance": "7.5",
   "location": "A Coruña"
 },
@@ -6065,67 +6065,7 @@
   "finish_time": "00:26:55",
   "age_group": "JV1M-5",
   "gender": "Masculino",
-  "dorsal": "",
-  "race_distance": "7.5",
-  "location": "A Coruña"
-},
-{
-  "edicion": 2022,
-  "runner_name": "JACI AUGUSTO MELLO BIRKHAN",
-  "finish_time": "00:26:56",
-  "age_group": "VTAM-10",
-  "gender": "Masculino",
-  "dorsal": "",
-  "race_distance": "7.5",
-  "location": "A Coruña"
-},
-{
-  "edicion": 2022,
-  "runner_name": "ANTÓN NO NÚÑEZ",
-  "finish_time": "00:26:59",
-  "age_group": "JV1M-6",
-  "gender": "Masculino",
-  "dorsal": "",
-  "race_distance": "7.5",
-  "location": "A Coruña"
-},
-{
-  "edicion": 2022,
-  "runner_name": "JUAN CARLOS VAZQUEZ GRELA",
-  "finish_time": "00:27:00",
-  "age_group": "VTAM-11",
-  "gender": "Masculino",
-  "dorsal": "",
-  "race_distance": "7.5",
-  "location": "A Coruña"
-},
-{
-  "edicion": 2022,
-  "runner_name": "PABLO MARCOS PAZOS",
-  "finish_time": "00:27:01",
-  "age_group": "SNM-9",
-  "gender": "Masculino",
-  "dorsal": "",
-  "race_distance": "7.5",
-  "location": "A Coruña"
-},
-{
-  "edicion": 2022,
-  "runner_name": "IAGO LÓPEZ SOMOZA",
-  "finish_time": "00:27:04",
-  "age_group": "VTAM-12",
-  "gender": "Masculino",
-  "dorsal": "",
-  "race_distance": "7.5",
-  "location": "A Coruña"
-},
-{
-  "edicion": 2022,
-  "runner_name": "ALEXANDRE RODRÍGUEZ PAZ",
-  "finish_time": "00:27:07",
-  "age_group": "VTAM-13",
-  "gender": "Masculino",
-  "dorsal": "",
+  "dorsal": "4735",
   "race_distance": "7.5",
   "location": "A Coruña"
 },

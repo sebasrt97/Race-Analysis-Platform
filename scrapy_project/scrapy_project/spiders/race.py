@@ -52,7 +52,6 @@ class RaceSpider(scrapy.Spider):
                 'finish_time': row.css('td.tiempo_display::text').get('').strip(),
                 'age_group': row.css('td.get_puesto_categoria_display::text').get('').strip(),
                 'gender': genero,
-                'dorsal': row.css('td.dorsal::text').get('').strip(),
                 'race_distance': '7.5',
                 'location': 'A Coruña'
             }
