@@ -19,7 +19,7 @@ class RaceSpider(scrapy.Spider):
                 'location': 'A Coruña'
             }
 
-        #Iterar sobre la paginación
+        #Iterar sobre la paginacion
         next_page = response.xpath('//a[contains(text(), "Siguiente")]/@href').get()
         
         if next_page:
