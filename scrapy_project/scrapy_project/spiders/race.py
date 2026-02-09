@@ -47,7 +47,7 @@ class RaceSpider(scrapy.Spider):
             genero = "Masculino" if "M" in sexo_raw else "Femenino"
 
             yield {
-                'edicion': anio,
+                'fecha': f"31/12/{anio}",
                 'runner_name': f"{nombre} {apellidos}".strip(),
                 'finish_time': row.css('td.tiempo_display::text').get('').strip(),
                 'age_group': row.css('td.get_puesto_categoria_display::text').get('').strip(),
