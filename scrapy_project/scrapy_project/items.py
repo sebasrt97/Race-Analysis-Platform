@@ -9,4 +9,10 @@ import scrapy
 class ScrapyProjectItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    fecha = scrapy.Field()
+    runner_name = scrapy.Field()
+    finish_time = scrapy.Field()
+    age_group = scrapy.Field()
+    gender = scrapy.Field()
+    race_distance = scrapy.Field()
+    location = scrapy.Field()

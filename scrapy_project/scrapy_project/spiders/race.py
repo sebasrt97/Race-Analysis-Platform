@@ -1,5 +1,5 @@
 import scrapy
-
+from ..items import ScrapyProjectItem
 class RaceSpider(scrapy.Spider):
     name = "race"
     EDICIONES = [
@@ -46,16 +46,18 @@ class RaceSpider(scrapy.Spider):
             sexo_raw = row.css('td.get_puesto_sexo_display::text').get('').upper()
             genero = "Masculino" if "M" in sexo_raw else "Femenino"
 
-            yield {
-                'fecha': f"31/12/{anio}",
-                'runner_name': f"{nombre} {apellidos}".strip(),
-                'finish_time': row.css('td.tiempo_display::text').get('').strip(),
-                'age_group': row.css('td.get_puesto_categoria_display::text').get('').strip(),
-                'gender': genero,
-                'race_distance': '7.5',
-                'location': 'A Coruña'
-            }
+            item = ScrapyProjectItem()
 
+            item['fecha'] = f"31/12/{anio}"
+            item['runner_name'] = f"{nombre} {apellidos}".strip()
+            item['finish_time'] = row.css('td.tiempo_display::text').get('').strip()
+            item['age_group'] = row.css('td.get_puesto_categoria_display::text').get('').strip()
+            item['gender'] = genero
+            item['race_distance'] = '7.5'
+            item['location'] = 'A Coruña'
+
+            yield item
+            
         next_page = response.xpath('//a[contains(text(), "Siguiente") or contains(text(), ">")]/@href').get()
         
         if next_page:
