@@ -1,51 +1,71 @@
 import pymongo
-from scrapy.exceptions import DropItem
+import json
 from itemadapter import ItemAdapter
 from datetime import datetime
 
-class ScrapyProjectPipeline:
-    
-    def open_spider(self, spider):
-        #Conexión a MongoDB 
-        uri = "mongodb://admin:admin123@localhost:27017/?authSource=admin"
-        self.client = pymongo.MongoClient(uri)
+class MongoImporter:
+    def __init__(self):
+        # Configuración de la base de datos
+        self.uri = "mongodb://admin:admin123@localhost:27017/?authSource=admin"
+        self.db_name = "carreras_db"
+        self.collection_name = "resultados"
 
-        self.db = self.client["carreras_db"]
-        self.coleccion=self.db["resultados"]    
+    def importar_desde_json(self, nombre_archivo='../edMongo.json'):
+
+        #  Conexión y configuración inicial
+        client = pymongo.MongoClient(self.uri)
+        db = client[self.db_name]
+        coleccion = db[self.collection_name]
         
-        #Manejo duplicaods
-        self.db.resultados.create_index([("runner_name", 1), ("fecha", 1)], unique=True)
-    
+        # Crear índice único para evitar duplicados
+        coleccion.create_index([("runner_name", 1), ("fecha", 1)], unique=True)
 
-
-
-    def process_item(self, item, spider):
-        adapter = ItemAdapter(item) 
-        
-        # Valida que el item tenga los campos mínimos 
-        if not adapter.get('runner_name') or not adapter.get('finish_time'):
-            raise DropItem(f"Item incompleto descartado: {adapter.get('runner_name')}")
-        
-        # Conversión de tipos y manejo de errores
         try:
-            adapter['race_distance'] = float(adapter.get('race_distance', 0))
-            
-            if isinstance(adapter.get('fecha'), str):
-                adapter['fecha'] = datetime.strptime(adapter['fecha'], "%d/%m/%Y")         
-        
-        except (ValueError, TypeError):
-            adapter['race_distance'] = 0.0
+            with open(nombre_archivo, 'r', encoding='utf-8') as f:
+                datos = json.load(f)
+                exitos = 0
+                duplicados = 0
 
-        # Duplicados
-        try:
-            # Insertamos el item convertido a diccionario
-            self.coleccion.insert_one(adapter.asdict())
-        except pymongo.errors.DuplicateKeyError:
-            # si hay duplicado, lo ignoramos
-            spider.logger.debug(f"Duplicado detectado y omitido: {adapter['runner_name']}")
-            
-        return item
-    
-    def close_spider(self, spider):
-        self.client.close()
-    
+                for item in datos:
+                    adapter = ItemAdapter(item)
+                    
+                    # Validación mínima
+                    if not adapter.get('runner_name') or not adapter.get('finish_time'):
+                        continue
+
+                    # Limpieza y conversión de datos
+                    try:
+                        # Distancia a float
+                        adapter['race_distance'] = float(adapter.get('race_distance', 0))
+                        
+                        # Fecha a objeto datetime
+                        fecha_str = adapter.get('fecha')
+                        if isinstance(fecha_str, str):
+                            adapter['fecha'] = datetime.strptime(fecha_str, "%d/%m/%Y")
+                        
+                        # Inserción en MongoDB
+                        coleccion.insert_one(adapter.asdict())
+                        exitos += 1
+
+                    except pymongo.errors.DuplicateKeyError:
+                        duplicados += 1
+                    except Exception as e:
+                        print(f"Error procesando registro: {e}")
+
+                print("--- Resumen de Importación ---")
+                print(f"Registros nuevos: {exitos}")
+                print(f"Duplicados omitidos: {duplicados}")
+                print(f"Total en colección: {coleccion.count_documents({})}")
+
+        except FileNotFoundError:
+            print(f"Error: No se encontró el archivo en la ruta: {nombre_archivo}")
+        except json.JSONDecodeError:
+            print(f"Error: El archivo {nombre_archivo} no tiene un formato JSON válido.")
+        finally:
+            client.close()
+            print("Conexión a MongoDB cerrada.")
+
+# --- Ejecución del script ---
+if __name__ == "__main__":
+    importer = MongoImporter()
+    importer.importar_desde_json()
