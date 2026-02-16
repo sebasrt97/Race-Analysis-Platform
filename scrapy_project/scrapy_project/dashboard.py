@@ -6,33 +6,20 @@ from datetime import timedelta
 # Configuración de la página
 st.set_page_config(layout="wide", page_title="Race Analysis Dashboard", page_icon="🏃‍♂️")
 
-# --- FUNCIONES DE UTILIDAD ---
-def hhmmss_to_seconds(hhmmss):
-    """Convierte formato HH:MM:SS a segundos totales."""
-    try:
-        if pd.isna(hhmmss) or hhmmss == "":
-            return 0
-        parts = str(hhmmss).split(':')
-        if len(parts) == 3:
-            return int(parts[0]) * 3600 + int(parts[1]) * 60 + int(parts[2])
-        return 0
-    except:
-        return 0
-
-def seconds_to_hhmmss(seconds):
-    """Convierte segundos a formato HH:MM:SS."""
-    if pd.isna(seconds) or seconds <= 0:
-        return "00:00:00"
-    return str(timedelta(seconds=int(seconds)))
-
 # --- CARGA DE DATOS ---
 @st.cache_data
 def load_data():
     # Carga el archivo JSON
     df = pd.read_json("scrapy_project/edMongo.json")
     
-    # Adaptación a tus columnas específicas
-    df['time_seconds'] = df['finish_time'].apply(hhmmss_to_seconds)
+    temp_time = pd.to_datetime(df['finish_time'], errors='coerce')
+
+    # Calculamos los segundos totales extrayendo hora, minuto y segundo
+    df['time_seconds'] = (
+        temp_time.dt.hour * 3600 + 
+        temp_time.dt.minute * 60 + 
+        temp_time.dt.second
+    ).fillna(0).astype(int)
     
     # Crear un identificador de carrera si no existe uno único
     # Combinamos fecha, distancia y localización para el selector
@@ -82,8 +69,8 @@ with tab1:
         m_best = df_filtered['time_seconds'].min()
         m_avg = df_filtered['time_seconds'].mean()
         
-        col1.metric("Mejor Tiempo", seconds_to_hhmmss(m_best))
-        col2.metric("Tiempo Medio", seconds_to_hhmmss(m_avg))
+        col1.metric("Mejor Tiempo", m_best)
+        col2.metric("Tiempo Medio", m_avg)
         col3.metric("Total Corredores", len(df_filtered))
         col4.metric("Distancia", f"{df_filtered['race_distance'].iloc[0]} km")
 
@@ -101,7 +88,7 @@ with tab1:
                 labels={'time_seconds': 'Segundos', 'count': 'Frecuencia'},
                 template="plotly_dark"
             )
-            st.plotly_chart(fig_hist, use_container_width=True)
+            st.plotly_chart(fig_hist, width='stretch')
 
         with c_right:
             st.subheader("Tiempos por Grupo de Edad")
@@ -112,7 +99,7 @@ with tab1:
                 color="gender",
                 labels={'age_group': 'Categoría/Edad', 'time_seconds': 'Segundos'}
             )
-            st.plotly_chart(fig_age, use_container_width=True)
+            st.plotly_chart(fig_age, width='stretch')
 
 # --- TAB 2: CORREDOR ---
 with tab2:
@@ -147,4 +134,4 @@ with tab2:
         st.write(f"**{runner_name}** comparado con el resto de corredores:")
         fig_pos = px.histogram(df_filtered, x="time_seconds", nbins=40)
         fig_pos.add_vline(x=runner_row['time_seconds'], line_color="red", line_width=4, annotation_text="TU META")
-        st.plotly_chart(fig_pos, use_container_width=True)
+        st.plotly_chart(fig_pos, width='stretch')
