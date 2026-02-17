@@ -1,31 +1,24 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import plotly.figure_factory as ff
 from datetime import timedelta
 
-# Configuración de la página
 st.set_page_config(layout="wide", page_title="Race Analysis Dashboard", page_icon="🏃‍♂️")
 
-# --- CARGA DE DATOS ---
 @st.cache_data
 def load_data():
-    # Carga el archivo JSON
     df = pd.read_json("scrapy_project/edMongo.json")
     
     temp_time = pd.to_datetime(df['finish_time'], errors='coerce')
 
-    # Calculamos los segundos totales extrayendo hora, minuto y segundo
     df['time_seconds'] = (
         temp_time.dt.hour * 3600 + 
         temp_time.dt.minute * 60 + 
         temp_time.dt.second
     ).fillna(0).astype(int)
     
-    # Crear un identificador de carrera si no existe uno único
-    # Combinamos fecha, distancia y localización para el selector
     df['race_label'] = df['fecha'] + " - " + df['location'] + " (" + df['race_distance'].astype(str) + "km)"
-    
-    # Ordenar por tiempo
     df = df.sort_values('time_seconds')
     return df
 
@@ -35,82 +28,98 @@ except Exception as e:
     st.error(f"⚠️ Error al cargar el archivo: {e}")
     st.stop()
 
-# --- SIDEBAR ---
+# --- SIDEBAR FILTERS ---
 st.sidebar.header("🎯 Filtros")
-
-# Seleccionar Carrera
 race_choice = st.sidebar.selectbox("Selecciona Evento", df['race_label'].unique())
-
-# Seleccionar Género
 gender_choice = st.sidebar.multiselect(
     "Género", 
-    df['gender'].unique(), 
-    default=df['gender'].unique()
+    df['gender'].unique().tolist(), 
+    default=df['gender'].unique().tolist()
 )
 
-# Filtrado
 mask = (df['race_label'] == race_choice) & (df['gender'].isin(gender_choice))
 df_filtered = df[mask].copy()
 
-# --- DASHBOARD PRINCIPAL ---
+# --- MAIN DASHBOARD ---
 st.title("🏆 Análisis de Resultados de Carrera")
 st.info(f"📍 Evento: {race_choice}")
 
-tab1, tab2 = st.tabs(["📊 Estadísticas Generales", "👤 Buscador de Corredor"])
+tab1, tab2, tab3 = st.tabs(["📊 Estadísticas Generales", "👤 Buscador de Corredor", "🌟 Hall of Fame"])
 
-# --- TAB 1: GENERAL ---
+# --- TAB 1: ESTADÍSTICAS GENERALES ---
 with tab1:
     if df_filtered.empty:
-        st.warning("No hay datos disponibles.")
+        st.warning("No hay datos disponibles para los filtros seleccionados.")
     else:
-        # Métricas de la carrera
         col1, col2, col3, col4 = st.columns(4)
         
-        m_best = df_filtered['time_seconds'].min()
-        m_avg = df_filtered['time_seconds'].mean()
+        raw_best = pd.to_datetime(df_filtered['finish_time'].iloc[0])
+        m_best = raw_best.strftime('%H:%M:%S') 
+        
+        m_avg_secs = df_filtered['time_seconds'].mean()
+        m_avg = str(timedelta(seconds=int(m_avg_secs)))
         
         col1.metric("Mejor Tiempo", m_best)
         col2.metric("Tiempo Medio", m_avg)
         col3.metric("Total Corredores", len(df_filtered))
         col4.metric("Distancia", f"{df_filtered['race_distance'].iloc[0]} km")
 
-        st.divider()
+        st.markdown("---")
 
         c_left, c_right = st.columns(2)
-
         with c_left:
             st.subheader("Distribución de Tiempos")
-            fig_hist = px.histogram(
-                df_filtered, 
-                x="time_seconds", 
-                color="gender",
-                nbins=30,
-                labels={'time_seconds': 'Segundos', 'count': 'Frecuencia'},
-                template="plotly_dark"
-            )
-            st.plotly_chart(fig_hist, width='stretch')
+            fig_hist = px.histogram(df_filtered, x="time_seconds", color="gender", nbins=30, template="plotly_dark")
+            st.plotly_chart(fig_hist, use_container_width=True)
 
         with c_right:
             st.subheader("Tiempos por Grupo de Edad")
-            fig_age = px.box(
-                df_filtered, 
-                x="age_group", 
-                y="time_seconds", 
-                color="gender",
-                labels={'age_group': 'Categoría/Edad', 'time_seconds': 'Segundos'}
-            )
-            st.plotly_chart(fig_age, width='stretch')
+            fig_age = px.box(df_filtered, x="age_group", y="time_seconds", color="gender", template="plotly_dark")
+            st.plotly_chart(fig_age, use_container_width=True)
 
-# --- TAB 2: CORREDOR ---
+        st.markdown("---")
+
+        st.subheader("📈 Curva de Densidad de Finalización")
+        st.write("Visualización de la concentración de corredores por tiempo (minutos).")
+        
+        genders = df_filtered['gender'].unique()
+        hist_data = [df_filtered[df_filtered['gender'] == g]['time_seconds'] / 60 for g in genders]
+        
+        fig_kde = ff.create_distplot(hist_data, genders, show_hist=False, show_rug=False)
+
+        for trace in fig_kde.data:
+            trace.update(fill='tozeroy') 
+
+        min_x_min = (df_filtered['time_seconds'].min() / 60) * 0.95
+        max_x_min = (df_filtered['time_seconds'].max() / 60) * 1.05
+        avg_min = m_avg_secs / 60
+
+        fig_kde.update_layout(
+            template="plotly_dark",
+            xaxis_title="Tiempo (Minutos)",
+            yaxis_title="Densidad",
+            xaxis=dict(range=[min_x_min, max_x_min]), 
+            margin=dict(t=30, b=10, l=10, r=10),
+            legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
+        )
+
+        fig_kde.add_vline(
+            x=avg_min, 
+            line_dash="dash", 
+            line_color="white", 
+            annotation_text=f"Media: {m_avg}",
+            annotation_position="top left"
+        )
+        
+        st.plotly_chart(fig_kde, use_container_width=True)
+
+# --- TAB 2: BUSCADOR INDIVIDUAL ---
 with tab2:
     st.subheader("🔎 Análisis Individual")
-    
     runner_name = st.selectbox("Escribe el nombre del corredor:", sorted(df_filtered['runner_name'].unique()))
     
     if runner_name:
         runner_row = df_filtered[df_filtered['runner_name'] == runner_name].iloc[0]
-        
-        # Cálculos de posición
         pos_general = (df_filtered['time_seconds'] < runner_row['time_seconds']).sum() + 1
         total = len(df_filtered)
         
@@ -121,7 +130,6 @@ with tab2:
         res2.subheader(f"🏁 {pos_general}º de {total}")
         res2.write("Posición General")
         
-        # Ritmo estimado (min/km)
         distancia = float(runner_row['race_distance'])
         ritmo_seg = runner_row['time_seconds'] / distancia
         ritmo_min = str(timedelta(seconds=int(ritmo_seg))).split(':')[-2:]
@@ -129,9 +137,38 @@ with tab2:
         res3.write("Ritmo Medio")
 
         st.markdown("---")
-        
-        # Gráfico de posición
-        st.write(f"**{runner_name}** comparado con el resto de corredores:")
-        fig_pos = px.histogram(df_filtered, x="time_seconds", nbins=40)
+        fig_pos = px.histogram(df_filtered, x="time_seconds", nbins=40, template="plotly_dark")
         fig_pos.add_vline(x=runner_row['time_seconds'], line_color="red", line_width=4, annotation_text="TU META")
-        st.plotly_chart(fig_pos, width='stretch')
+        st.plotly_chart(fig_pos, use_container_width=True)
+
+# --- TAB 3: HALL OF FAME ---
+with tab3:
+    st.subheader("🥇 Top 10 Corredores - Hall of Fame")
+    
+    top_10 = df_filtered.head(10).copy()
+    top_10['finish_time_clean'] = pd.to_datetime(top_10['finish_time']).dt.strftime('%H:%M:%S')
+    top_10.insert(0, 'Puesto', range(1, len(top_10) + 1))
+    
+    top_display = top_10[['Puesto', 'runner_name', 'gender', 'age_group', 'finish_time_clean']]
+    top_display.columns = ['Puesto', 'Nombre del Atleta', 'Género', 'Categoría', 'Crono']
+    
+    st.dataframe(
+        top_display, 
+        hide_index=True, 
+        use_container_width=True,
+        column_config={
+            "Puesto": st.column_config.NumberColumn("Rank", format="%d 🏆"),
+            "Crono": st.column_config.TextColumn("⏱️ Tiempo Final")
+        }
+    )
+    
+    fig_top = px.bar(
+        top_10, 
+        x='runner_name', 
+        y='time_seconds', 
+        color='gender', 
+        template="plotly_dark",
+        labels={'runner_name': 'Atleta', 'time_seconds': 'Segundos'}
+    )
+    fig_top.update_yaxes(range=[top_10['time_seconds'].min() * 0.98, top_10['time_seconds'].max() * 1.02])
+    st.plotly_chart(fig_top, use_container_width=True)
