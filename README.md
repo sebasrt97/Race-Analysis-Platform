@@ -1,81 +1,72 @@
-🏃‍♂️ Race Analysis Dashboard
+🏃‍♂️ San Silvestre Coruña Race Analysis Platform
 Autores: Sebastian Ramos y Gabriel Tenreiro
 
-Este proyecto es una solución integral para la extracción, procesamiento y visualización de datos de carreras populares. Combina el uso de Scrapy para el web scraping, MongoDB para el almacenamiento de datos y Streamlit para la generación de un dashboard interactivo de análisis de resultados.
+Este proyecto consiste en una plataforma integral para la captura, almacenamiento y análisis de resultados de la carrera San Silvestra en A Coruña.
+ El sistema automatiza el flujo de datos desde la extracción web mediante Scrapy, el almacenamiento en una base de datos NoSQL con MongoDB, hasta la visualización de métricas avanzadas en un dashboard de Streamlit y un cuaderno de análisis de datos.
 
-📊 Modelo de Datos (ER)
-El proyecto utiliza un modelo Entidad-Relación normalizado para asegurar la integridad y evitar la redundancia de la información:
+📊 Descripción del Proyecto
+La plataforma permite procesar y visualizar el rendimiento de los corredores.
 
-Corredor: Almacena el identificador único (id_corredor), nombre y género.
+🛠️ Tecnologías y Librerías
+El stack tecnológico utilizado para este desarrollo incluye las siguientes librerías de Python:
 
-Carrera: Contiene los detalles del evento como fecha, ubicación y distancia total.
+Extracción: scrapy.
 
-Participación: Entidad puente que vincula a un corredor con una carrera, registrando el tiempo final y el grupo de edad.
+Base de Datos: pymongo (MongoDB).
 
-🛠️ Requisitos e Instalación
-Para ejecutar este proyecto, es necesario instalar las siguientes librerías de Python:
+Visualización: streamlit, plotly y matplotlib.
 
+Procesamiento: pandas y datetime.
 
-streamlit: Interfaz del dashboard.
-
-
-pandas: Manipulación y limpieza de datos.
-
-
-plotly: Generación de gráficos interactivos.
-
-scrapy: Extracción de datos web.
-
-pymongo: Conexión y gestión de la base de datos MongoDB.
-
-🚀 Guía de Ejecución
-Siga estos pasos en orden para poner en marcha el ecosistema completo:
-
-1. Web Scraping con Scrapy
-Extraiga los datos de las carreras utilizando el spider configurado. Los campos capturados incluyen la fecha, nombre del corredor, tiempo de finalización, grupo de edad, género, distancia y ubicación.
+⚙️ Configuración del Entorno (Conda)
+Para replicar el entorno de desarrollo y evitar conflictos de versiones, ejecute el siguiente script en su terminal:
 
 Bash
-# Dentro del directorio del proyecto Scrapy
-scrapy crawl <nombre_del_spider> -o edMongo.json
-La configuración incluye un USER_AGENT personalizado y un DOWNLOAD_DELAY de 1 segundo para garantizar una extracción respetuosa.
+# 1. Crear el entorno con Python 3.12
+conda create --name sansilvestre python=3.12 -y
 
-2. Importación a MongoDB
-Procese el archivo JSON generado y cargue los datos en la base de datos NoSQL. El script de importación limpia los datos, convierte las distancias a formato numérico y las fechas a objetos datetime.
+# 2. Activar el entorno
+conda activate sansilvestre
+
+# 3. Instalar librerías necesarias
+conda install -c conda-forge streamlit pandas plotly scrapy pymongo matplotlib ipykernel -y
+🚀 Guía de Ejecución
+1. Web Scraping
+Para iniciar la recolección de datos y generar el archivo de salida JSON, sitúese en la carpeta del proyecto Scrapy y ejecute:
+
+Bash
+scrapy crawl race -O edMongo.json
+Este comando captura campos como runner_name, finish_time, age_group, gender, race_distance, location y fecha.
+
+2. Importación a Base de Datos
+Procese el archivo JSON para limpiar los datos y cargarlos en MongoDB:
 
 Bash
 python pipelines.py
-Configuración de DB: Se conecta a mongodb://admin:admin123@localhost:27017/.
+El sistema utiliza la URI mongodb://admin:admin123@localhost:27017/ para conectar con la base de datos carreras_db.
 
-Base de datos: carreras_db | Colección: resultados.
-
-Evita duplicados: Utiliza un índice único basado en runner_name y fecha.
-
-3. Visualización en el Dashboard
-Inicie la aplicación interactiva de Streamlit para analizar los resultados:
+3. Dashboard de Visualización
+Lanze la interfaz gráfica interactiva:
 
 Bash
-streamlit run scrapy_project/scrapy_project/dashboard.py
-📈 Funcionalidades del Dashboard
-La aplicación web permite filtrar por evento y género para explorar los siguientes módulos:
+streamlit run scrapy_project/dashboard.py
+📂 Estructura del Proyecto
+Basado en los componentes del repositorio:
 
-Estadísticas Generales:
+📂 scrapy_project/: Directorio principal del scraper.
 
-Métricas de mejor tiempo, tiempo medio y total de corredores.
+items.py: Definición de los campos a extraer.
 
-Histogramas de distribución de tiempos y gráficos de caja (boxplots) por grupo de edad.
+pipelines.py: Lógica de limpieza e inserción en MongoDB.
 
-Curva de densidad de finalización comparando géneros.
+settings.py: Configuración de comportamiento del bot y cortesía.
 
-Buscador Individual:
+dashboard.py: Aplicación Streamlit para la visualización de resultados.
 
-Análisis personalizado por nombre de corredor.
+edMongo.json: Archivo generado por el scraper con los datos brutos.
 
-Cálculo automático de la posición general y el ritmo medio en min/km.
+📄 analisis.ipynb: Cuaderno de Jupyter para análisis estadístico y visualización con Matplotlib.
 
-Gráfico comparativo de la posición del corredor respecto al resto de participantes.
+📄 diagrama.md / diagrama_er.jpg: Documentación del modelo lógico de datos.
 
-Hall of Fame:
-
-Tabla con el Top 10 de atletas con mejores tiempos.
-
-Gráfico de barras comparativo de los líderes de la carrera.
+📄 requirements.txt: Lista de dependencias del proyecto.
