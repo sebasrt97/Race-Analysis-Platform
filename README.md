@@ -33,7 +33,8 @@ conda install -c conda-forge streamlit pandas plotly scrapy pymongo matplotlib s
 # 3. Parche de compatibilidad para visualización
 # Corrige el error: ModuleNotFoundError: No module named 'altair.vegalite.v4'
 pip install altair==4.2.2
-
+pip install --upgrade streamlit
+conda install -c conda-forge scipy -y
 
 🚀 Guía de Ejecución
 1. Web Scraping
@@ -52,9 +53,8 @@ El sistema utiliza la URI mongodb://admin:admin123@localhost:27017/ para conecta
 
 3. Dashboard de Visualización
 Lanze la interfaz gráfica interactiva:
-
 Bash
-streamlit run scrapy_project/dashboard.py
+streamlit run scrapy_project/scrapy_project/dashboard.py
 📂 Estructura del Proyecto
 Basado en los componentes del repositorio:
 

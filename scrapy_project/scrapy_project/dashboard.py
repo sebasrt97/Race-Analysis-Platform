@@ -74,21 +74,33 @@ with tab1:
 
         with c_right:
             st.subheader("Tiempos por Grupo de Edad")
-            fig_age = px.box(df_filtered, x="age_group", y="time_seconds", color="gender", template="plotly_dark")
+            df_filtered['time_minutes'] = df_filtered['time_seconds'] / 60
+            
+            # Creación del Box Plot
+            fig_age = px.box(df_filtered, x="age_group", y="time_minutes", color="gender", 
+                             template="plotly_dark", labels={'time_minutes': 'Tiempo (min)'})
+            
+            # Corregido: Rotación aplicada aquí mismo antes de mostrarlo
+            fig_age.update_xaxes(tickangle=-45) 
             st.plotly_chart(fig_age, use_container_width=True)
 
         st.markdown("---")
 
+        # --- SECCIÓN DE DENSIDAD ---
         st.subheader("📈 Curva de Densidad de Finalización")
         st.write("Visualización de la concentración de corredores por tiempo (minutos).")
         
+        # Preparación de datos para KDE
         genders = df_filtered['gender'].unique()
         hist_data = [df_filtered[df_filtered['gender'] == g]['time_seconds'] / 60 for g in genders]
         
+        # Eliminado: Aquí es donde se estaba duplicando el Box Plot por error
+        
+        # Creación del gráfico de densidad real
         fig_kde = ff.create_distplot(hist_data, genders, show_hist=False, show_rug=False)
 
         for trace in fig_kde.data:
-            trace.update(fill='tozeroy') 
+            trace.update(fill='tozeroy')
 
         min_x_min = (df_filtered['time_seconds'].min() / 60) * 0.95
         max_x_min = (df_filtered['time_seconds'].max() / 60) * 1.05
