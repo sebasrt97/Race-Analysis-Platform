@@ -24,12 +24,17 @@ Para replicar el entorno de desarrollo y evitar conflictos de versiones, ejecute
 Bash
 # 1. Crear el entorno con Python 3.12
 conda create --name sansilvestre python=3.12 -y
-
-# 2. Activar el entorno
 conda activate sansilvestre
 
-# 3. Instalar librerías necesarias
-conda install -c conda-forge streamlit pandas plotly scrapy pymongo matplotlib ipykernel -y
+# 2. Instalar el stack tecnológico base
+# Incluimos scipy para corregir el error en la Curva de Densidad
+conda install -c conda-forge streamlit pandas plotly scrapy pymongo matplotlib scipy ipykernel -y
+
+# 3. Parche de compatibilidad para visualización
+# Corrige el error: ModuleNotFoundError: No module named 'altair.vegalite.v4'
+pip install altair==4.2.2
+
+
 🚀 Guía de Ejecución
 1. Web Scraping
 Para iniciar la recolección de datos y generar el archivo de salida JSON, sitúese en la carpeta del proyecto Scrapy y ejecute:

@@ -33,8 +33,8 @@ st.sidebar.header("🎯 Filtros")
 race_choice = st.sidebar.selectbox("Selecciona Evento", df['race_label'].unique())
 gender_choice = st.sidebar.multiselect(
     "Género", 
-    df['gender'].unique(), 
-    default=df['gender'].unique()
+    df['gender'].unique().tolist(), 
+    default=df['gender'].unique().tolist()
 )
 
 mask = (df['race_label'] == race_choice) & (df['gender'].isin(gender_choice))
@@ -64,7 +64,7 @@ with tab1:
         col3.metric("Total Corredores", len(df_filtered))
         col4.metric("Distancia", f"{df_filtered['race_distance'].iloc[0]} km")
 
-        st.divider()
+        st.markdown("---")
 
         c_left, c_right = st.columns(2)
         with c_left:
@@ -77,7 +77,7 @@ with tab1:
             fig_age = px.box(df_filtered, x="age_group", y="time_seconds", color="gender", template="plotly_dark")
             st.plotly_chart(fig_age, use_container_width=True)
 
-        st.divider()
+        st.markdown("---")
 
         st.subheader("📈 Curva de Densidad de Finalización")
         st.write("Visualización de la concentración de corredores por tiempo (minutos).")
